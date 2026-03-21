@@ -47,14 +47,12 @@ GitHub 要求：推送 **Actions 工作流文件**（`.github/workflows/*.yml`�
 bash scripts/enable-workflow-push.sh
 ```
 
-脚本会：`gh auth refresh -s workflow`（在浏览器确认一次）→ 提交并推送 `deploy.yml`。推送成功后，打开仓库 **Actions** 标签页可看到构建；首次部署完成后即可访问上面的 `github.io` 地址。
+脚本会：`gh auth refresh -s workflow`（在浏览器确认一次）→ `git push origin main`，把**已包含** `deploy.yml` 的提交推上去。推送成功后，在 **Actions** 里等待绿色勾，即可访问上面的 `github.io` 地址。
 
 若你更习惯手动操作，等价命令为：
 
 ```bash
 gh auth refresh -h github.com -s workflow
-git add .github/workflows/deploy.yml
-git commit -m "ci: GitHub Pages workflow"   # 若已提交过可省略
 git push origin main
 ```
 
