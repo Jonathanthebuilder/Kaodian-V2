@@ -1,0 +1,5072 @@
+[
+  {
+    "id": "brandenburg",
+    "nameZh": "勃兰登堡",
+    "nameDe": "Brandenburg",
+    "listedCount": 20,
+    "venues": [
+      {
+        "name": "KVHS Barnim",
+        "region": "Barnim",
+        "address": "Fritz-Weineck-Str. 36, 16227 Eberswalde",
+        "phone": "03334-34597",
+        "email": "info@kvhs-barnim.de"
+      },
+      {
+        "name": "VHS Dahme-Spreewald / Königs Wusterhausen",
+        "region": "Dahme-Spreewald",
+        "address": "Schulweg 1b, 15711 Königs Wusterhausen",
+        "phone": "03375-262526",
+        "email": "vhs@dahme-spreewald.de"
+      },
+      {
+        "name": "KVHS Elbe-Elster",
+        "region": "Elbe-Elster",
+        "address": "Schloßplatz 1a, 04910 Elsterwerda",
+        "phone": "03533-6208520",
+        "email": "vhs.hz@lkee.de"
+      },
+      {
+        "name": "VHS Havelland",
+        "region": "Havelland",
+        "address": "Poststr. 15, 14612 Falkensee",
+        "phone": "03321-403-6712",
+        "email": "kathrin.royek@havelland.de"
+      },
+      {
+        "name": "VHS Brandenburg an der Havel",
+        "region": "Kreisfreie Stadt",
+        "address": "Upstallstraße 25, 14772 Brandenburg an der Havel",
+        "phone": "03381-250442",
+        "email": "auskunft@vhs-brandenburg.de"
+      },
+      {
+        "name": "ZEM Volkshochschule Märkisch-Oderland",
+        "region": "Märkisch-Oderland",
+        "address": "Wriezener Str. 30, 15344 Strausberg",
+        "phone": "03346-8506840",
+        "email": "volkshochschule@lankreismol.de"
+      },
+      {
+        "name": "Volksschule Oberhavel (Hauptgeschäftsstelle)",
+        "region": "Oberhavel",
+        "address": "Havelstr. 18, 16515 Oranienburg",
+        "phone": "03301 6015752",
+        "email": "vhs@oberhavel.de"
+      },
+      {
+        "name": "KVHS-Oberspreewald-Lausitz",
+        "region": "Oberspree-Lausitz",
+        "address": "Jahnstr. 32, 01968 Senftenberg",
+        "phone": "03573/810314",
+        "email": "gross@vhs-osl.de"
+      },
+      {
+        "name": "Volkshochschule Landkreis Oder-Spree",
+        "region": "Oder-Spree",
+        "address": "Frankfurter Str. 70, 15517 Fürstenwalde /Spree",
+        "phone": "03361-2783",
+        "email": "fuerstenwalde@vhs-los.de"
+      },
+      {
+        "name": "VHS Eisenhüttenstadt",
+        "region": "Oder-Spree",
+        "address": "Waldstr. 10, 15890 Eisenhüttenstadt",
+        "phone": "03364-280734",
+        "email": "eisenhuettenstadt@vhs-los-eh.de"
+      },
+      {
+        "name": "KVHS Neuruppin",
+        "region": "Ostprignitz-Ruppin",
+        "address": "Altruppiner Allee 39, 16816 Neuruppin",
+        "phone": "03391-769160",
+        "email": "volkshochschule@o-p-r.de"
+      },
+      {
+        "name": "KVHS Potsdam-Mittelmark",
+        "region": "Potsdam-Mittelmark",
+        "address": "Am Weinberg 20 / Puschkinstr. 13, 14532 Kleinmachnow / Belzig",
+        "phone": "033203-803710",
+        "email": "kleinmachnow@kvhs-pm.de"
+      },
+      {
+        "name": "KVHS Prignitz",
+        "region": "Prignitz",
+        "address": "Berliner Str. 49, 19348 Perleberg",
+        "phone": "03876-785165",
+        "email": "kvhs.prignitz@web.de"
+      },
+      {
+        "name": "KVHS Spree-Neiße",
+        "region": "Spree-Neiße",
+        "address": "Heinrich-Heine-Str. 14, 03149 Forst (Lausitz)",
+        "phone": "03562-699766",
+        "email": "kvhs@lkspn.de"
+      },
+      {
+        "name": "VHS im Lernzentrum Cottbus",
+        "region": "Stadtkreis",
+        "address": "Berliner Str. 13/14, 03046 Cottbus",
+        "phone": "0355-38060-50",
+        "email": "volkshochschule@cottbus.de"
+      },
+      {
+        "name": "VHS \"A. Einstein\" der Stadt Potsdam",
+        "region": "Stadtkreis",
+        "address": "Dortustr. 37, 14467 Potsdam",
+        "phone": "0331/289-4562",
+        "email": "Susanne.Herrmann@rathaus.potsdam.de"
+      },
+      {
+        "name": "VHS Frankfurt (Oder)",
+        "region": "Stadtkreis",
+        "address": "Gartenstr. 1, 15230 Frankfurt (Oder)",
+        "phone": "0335-542025",
+        "email": "christen@vhs-frankfurt-oder.de"
+      },
+      {
+        "name": "VHS Teltow-Fläming",
+        "region": "Teltow-Fläming",
+        "address": "Am Nuthefließ 2, 14943 Luckenwalde",
+        "phone": "03371-6083141",
+        "email": "kvhs@teltow-flaeming.de"
+      },
+      {
+        "name": "VHS Schwedt/Oder",
+        "region": "Uckermark",
+        "address": "Berliner Str. 52e, 16303 Schwedt/Oder",
+        "phone": "03332-834911",
+        "email": "vhs.stadt@schwedt.de"
+      },
+      {
+        "name": "KVHS Uckermark",
+        "region": "Uckermark",
+        "address": "Brüssower Allee 48, 17291 Prenzlau",
+        "phone": "03984-2551",
+        "email": "info@kvhs-uckermark.de"
+      }
+    ]
+  },
+  {
+    "id": "berlin",
+    "nameZh": "柏林",
+    "nameDe": "Berlin",
+    "listedCount": 12,
+    "venues": [
+      {
+        "name": "VHS Berlin Friedrichshain-Kreuzberg",
+        "region": "Wassertorstr. 4, 10969 Berlin",
+        "address": "030-902984600",
+        "phone": "",
+        "email": "info@vhs-fk.de"
+      },
+      {
+        "name": "VHS Berlin Lichtenberg",
+        "region": "Paul-Junius-Str. 71, 10369 Berlin",
+        "address": "030-902965971",
+        "phone": "",
+        "email": "vhs@lichtenberg.berlin.de"
+      },
+      {
+        "name": "VHS Berlin Steglitz-Zehlendorf",
+        "region": "Goethestr. 9/11, 12207 Berlin",
+        "address": "030/902996156",
+        "phone": "",
+        "email": "deutschkurse@vhssz.de"
+      },
+      {
+        "name": "VHS Berlin Treptow-Köpenick",
+        "region": "Baumschulenstr. 79/81, 12437 Berlin",
+        "address": "030-902974055",
+        "phone": "",
+        "email": "post@vhstk.de"
+      },
+      {
+        "name": "VHS Berlin-Charlottenburg City West Wilmersdorf",
+        "region": "Pestalozzistr. 40/41, 10627 Berlin",
+        "address": "030-9029-28873",
+        "phone": "",
+        "email": "vhs@charlottenburg-wilmersdorf.de"
+      },
+      {
+        "name": "VHS Berlin-Marzahn-Hellersdorf",
+        "region": "Mark-Twain-Str. 27, 12627 Berlin",
+        "address": "030-902932580",
+        "phone": "",
+        "email": "infovhs@ba-mh.berlin.de"
+      },
+      {
+        "name": "VHS Berlin-Mitte",
+        "region": "Antonstr. 37, 13347 Berlin",
+        "address": "030-901837474",
+        "phone": "",
+        "email": "deutsch@vhsmitte.de"
+      },
+      {
+        "name": "VHS Berlin-Neukölln",
+        "region": "Boddinstr. 34, 12053 Berlin",
+        "address": "030-90239-2433",
+        "phone": "",
+        "email": "vhsinfo@bezirksamt-neukoelln.de"
+      },
+      {
+        "name": "VHS Berlin-Pankow",
+        "region": "Prenzlauer Allee 227/228, 13405 Berlin",
+        "address": "030-90295-1700",
+        "phone": "",
+        "email": "post@vhspankow.de"
+      },
+      {
+        "name": "VHS Berlin-Reinickendorf",
+        "region": "Am Borsigturm 6, 13507 Berlin",
+        "address": "030-902944800",
+        "phone": "",
+        "email": "vhs@reinickendorf.berlin.de"
+      },
+      {
+        "name": "VHS Berlin-Spandau",
+        "region": "Carl-Schurz-Str. 17, 13597 Berlin",
+        "address": "030-902795000",
+        "phone": "",
+        "email": "info@vhs-spandau.de"
+      },
+      {
+        "name": "VHS Berlin-Tempelhof-Schöneberg",
+        "region": "Barbarossaplatz 5, 10781 Berlin",
+        "address": "030-90277-3000",
+        "phone": "",
+        "email": "vhs@ba-ts.berlin.de"
+      }
+    ]
+  },
+  {
+    "id": "baden-wuerttemberg",
+    "nameZh": "巴登-符腾堡",
+    "nameDe": "Baden-Württemberg",
+    "listedCount": 63,
+    "venues": [
+      {
+        "name": "Inlingua Sprachcenter Friedrichshafen",
+        "region": "Konstanz",
+        "address": "Bahnhofplatz 1, 88045 Friedrichshafen",
+        "phone": "07541-2868-11",
+        "email": "info@inlingua-friedrichshafen.de"
+      },
+      {
+        "name": "Institut für deutsche Sprache Offenburg (ids)",
+        "region": "Ortenaukreis",
+        "address": "Wilhelm-Bauer-Str. 16, 77652 Offenburg",
+        "phone": "0781/9364420",
+        "email": "regina.nagel@vhs-offenburg.de"
+      },
+      {
+        "name": "Kompetenz & Bildung, Kunert & Buckel",
+        "region": "Schwäbisch Hall",
+        "address": "Gerhard-Storz-Weg 24, Schwäbisch Hall, 74564 Crailsheim",
+        "phone": "0791-94078191",
+        "email": "marcus.buckel@kompetenzundbildung.de"
+      },
+      {
+        "name": "Volkshochschule Südlicher Breisgau",
+        "region": "Hochschwarzwald",
+        "address": "Basler Str. 1, 79189 Bad Krozingen",
+        "phone": "07633-92650",
+        "email": "info@vhs-bad-krotzingen.de"
+      },
+      {
+        "name": "Kompetenz & Bildung, Kunert & Buckel",
+        "region": "Schwäbisch Hall",
+        "address": "Gerhard-Storz-Weg 24, Schwäbisch Hall, 74523 Schwäbisch Hall",
+        "phone": "0791-94078191",
+        "email": "marcus.buckel@kompetenzundbildung.de"
+      },
+      {
+        "name": "KVHS Freudenstadt",
+        "region": "Freudenstadt",
+        "address": "Geschäftsstelle FDS, Landhausstr. 4, 72250 Freudenstadt",
+        "phone": "07441/9201400",
+        "email": "vogt@vhs-kreisfds.de"
+      },
+      {
+        "name": "Mannheimer Abendakademie und VHS GmbH",
+        "region": "Stadtkreis",
+        "address": "U 1, 16-19, 68161 Mannheim",
+        "phone": "0621-1076-0",
+        "email": "deutsch@abendakademie-mannheim.de"
+      },
+      {
+        "name": "Büro für Aus- und Weiterbildung",
+        "region": "Stadtkreis",
+        "address": "P3,6, 68161 Mannheim",
+        "phone": "0621-25244",
+        "email": "info@bfaw.de"
+      },
+      {
+        "name": "Schiller-VHS Kreis Ludwigsburg",
+        "region": "Ludwigsburg",
+        "address": "Robert-Franck-Allee 9, 71638 Ludwigsburg",
+        "phone": "07141-1441668",
+        "email": "tausche@schiller-vhs.de"
+      },
+      {
+        "name": "Stadt Lörrach, Volkshochschule",
+        "region": "Lörrach",
+        "address": "Wallbrunnstraße 2, 79539 Lörrach",
+        "phone": "07621-95673-40",
+        "email": "vhs@loerrach.de"
+      },
+      {
+        "name": "Volkshochschule Buchen e.V.",
+        "region": "Buchen",
+        "address": "Kellereistr. 48, 74722 Buchen",
+        "phone": "06281-557930",
+        "email": "info@vhs-buchen"
+      },
+      {
+        "name": "Städtische VHS Karlsruhe",
+        "region": "Stadtkreis",
+        "address": "Studienhaus, Kaiserallee 12e, 76133 Karlsruhe",
+        "phone": "0721-98575-21",
+        "email": "bittner@vhs.karlsruhe.de"
+      },
+      {
+        "name": "Städtische Volkshochschule Crailsheim",
+        "region": "Schwäbisch Hall",
+        "address": "Spitalstr. 2a, 74564 Crailsheim",
+        "phone": "07951-9480-18",
+        "email": "kadri.peterson@crailsheim.de"
+      },
+      {
+        "name": "Ulmer Volkshochschule",
+        "region": "Stadtkreis",
+        "address": "EinsteinHaus, Kornhausplatz 5, 89073 Ulm",
+        "phone": "0731-15300",
+        "email": "info@vh-ulm.de"
+      },
+      {
+        "name": "Verte GmbH Inlingua Freiburg",
+        "region": "Stadtkreis",
+        "address": "Friedrichstraße 45, 79098 Freiburg",
+        "phone": "0761-21688714",
+        "email": "dos@inlingua-freiburg.de"
+      },
+      {
+        "name": "VHS Ostalb e.V.",
+        "region": "Ostalbkreis",
+        "address": "Strutrain 2, 73492 Rainau",
+        "phone": "07961-876-915",
+        "email": "silvia.Freitag@vhs-ostalb.de"
+      },
+      {
+        "name": "VHS Aalen",
+        "region": "Ostalbkreis",
+        "address": "Im Torhaus, Gmünder Str. 9, 73430 Aalen",
+        "phone": "07361-95830",
+        "email": "schumm@vhs-aalen.de"
+      },
+      {
+        "name": "VHS Backnang",
+        "region": "Rems-Murr-Kreis",
+        "address": "Etzwiesenberg 11, 71522 Backnang",
+        "phone": "07191/9667-16",
+        "email": "info@vhs-backnang.de"
+      },
+      {
+        "name": "VHS Bad Säckingen",
+        "region": "Waldshut",
+        "address": "Friedrichstr. 33, 79713 Bad Säckingen",
+        "phone": "07761-2101",
+        "email": "verwaltung@vhs-bad-saeckingen.de"
+      },
+      {
+        "name": "VHS Baden-Baden",
+        "region": "Stadtkreis",
+        "address": "Jägerweg 12, 76532 Baden-Baden",
+        "phone": "07221/9965-360",
+        "email": "info@vhs-baden-baden.de"
+      },
+      {
+        "name": "VHS Balingen",
+        "region": "Zollernalbkreis",
+        "address": "Wilhelmstr. 36, 72336 Balingen",
+        "phone": "07433-9080-0",
+        "email": "ottmar.erath@vhs-balingen.de"
+      },
+      {
+        "name": "VHS Biberach a. d. Riß",
+        "region": "Biberach/Riß",
+        "address": "Obere Schranne, Schulstr. 8, 88400 Biberach",
+        "phone": "07351-51-246",
+        "email": "cstern@biberach-riss.de"
+      },
+      {
+        "name": "VHS Böblingen-Sindelfingen",
+        "region": "Böblingen",
+        "address": "Im Höfle, Pestalozzistr. 4, 71032 Böblingen",
+        "phone": "07031-640046",
+        "email": "mailto:michael.hoffmann@vhs-aktuell.de"
+      },
+      {
+        "name": "VHS Bodenseekreis",
+        "region": "Bodenseekreis",
+        "address": "Glärnischstraße 1-3, 88045 Friedrichshafen",
+        "phone": "07541 2045468",
+        "email": "vhs-zentrale@bodenseekreis.de"
+      },
+      {
+        "name": "VHS Calw e.V.",
+        "region": "Calw",
+        "address": "Kirchplatz 3, 75365 Calw",
+        "phone": "07051/9365-0",
+        "email": "mail@vhs-calw.de"
+      },
+      {
+        "name": "VHS Esslingen",
+        "region": "Esslingen",
+        "address": "Mettingerstr. 125, 73728 Esslingen",
+        "phone": "0711-55021-0",
+        "email": "info@vhs-esslingen.de"
+      },
+      {
+        "name": "VHS Freiburg",
+        "region": "Stadtkreis",
+        "address": "Rotteckring 12, 79098 Freiburg",
+        "phone": "0761-3689510",
+        "email": "lebfromm@vhs-freiburg.de"
+      },
+      {
+        "name": "VHS Friedrichshafen",
+        "region": "Bodenseekreis",
+        "address": "Charlottenstr. 12/2, 88045 Friedrichshafen",
+        "phone": "07541-2033407",
+        "email": "info@vhs-fn.de"
+      },
+      {
+        "name": "VHS für Stadt und Kreis Tuttlingen",
+        "region": "Tuttlingen",
+        "address": "Schulstr. 6, 78532 Tuttlingen",
+        "phone": "07461-96910",
+        "email": "schlagowsky@vhs-tuttlingen.de"
+      },
+      {
+        "name": "VHS Stadt Nürtingen",
+        "region": "Esslingen",
+        "address": "Schloßgartenstr. 2, 72622 Nürtingen",
+        "phone": "07022-75330",
+        "email": "kontakt@vhs-nuertingen.de"
+      },
+      {
+        "name": "VHS Geislingen a. d. Steige",
+        "region": "Göppingen",
+        "address": "In der MAG, Schillerstr. 2, 73312 Geislingen a.d.Steige",
+        "phone": "07331-24269",
+        "email": "vhs@geislingen.de"
+      },
+      {
+        "name": "VHS Hechingen",
+        "region": "Südwürtemberg",
+        "address": "Münzgasse 4/1, 72379 Hechingen",
+        "phone": "07471-5188",
+        "email": "vhs@vhs-hechingen.de"
+      },
+      {
+        "name": "VHS Heidelberg",
+        "region": "Stadtkreis",
+        "address": "Bergheimer Str. 76, 69115 Heidelberg",
+        "phone": "06221-911911",
+        "email": "vhs@vhs-hd.de"
+      },
+      {
+        "name": "VHS Heidenheim",
+        "region": "Heidenheim",
+        "address": "Am Wedelgraben 1-5 \"Rieger am Markt\", 89522 Heidenheim",
+        "phone": "07321-327-4430",
+        "email": "info@vhs-heidenheim.de"
+      },
+      {
+        "name": "VHS Hochschwarzwald e.V.",
+        "region": "Schwarzwald-Baar-Kreis",
+        "address": "Sebastian-Kneipp-Anlage 2, 79822 Titisee-Neustadt",
+        "phone": "17651-1363",
+        "email": "info@vhs-hochschwarzwald.de"
+      },
+      {
+        "name": "VHS Heilbronn",
+        "region": "Heilbronn",
+        "address": "Im Deutschhof, 74072 Heilbronn",
+        "phone": "07131-996544",
+        "email": "persson@vhs-heilbronn.de"
+      },
+      {
+        "name": "VHS Kirchheim u. Teck",
+        "region": "Esslingen",
+        "address": "Max-Eyth-Str. 18, 73230 Kirchheim u.Teck",
+        "phone": "07021-973030",
+        "email": "info@vhskirchheim.de"
+      },
+      {
+        "name": "VHS Konstanz-Singen",
+        "region": "Konstanz",
+        "address": "Hauptstelle Konstanz, Katzgasse 7, 78462 Konstanz",
+        "phone": "07731-9581-57",
+        "email": "pacilli@vhs-konstanz-singen.de"
+      },
+      {
+        "name": "VHS Landkreis Rastatt",
+        "region": "Rastatt",
+        "address": "Am Schlossplatz 5, 76437 Rastatt",
+        "phone": "07222/3813516",
+        "email": "rastatt@vhs-landkreis-rastatt.de"
+      },
+      {
+        "name": "VHS Mittleres Taubertal",
+        "region": "Main-Tauber-Kreis",
+        "address": "Struwepfad 2, 97941 Tauberbischofsheim",
+        "phone": "09341-1691",
+        "email": "vhs-mittleres-taubertal@t-online.de"
+      },
+      {
+        "name": "VHS Markgräflerland",
+        "region": "Hochschwarzwald",
+        "address": "Gerbergasse 8, 79379 Müllheim",
+        "phone": "07631-16581",
+        "email": "info@vhs-markgraeflerland.de"
+      },
+      {
+        "name": "VHS Mosbach",
+        "region": "Mosbach",
+        "address": "Hauptstr. 96, 74821 Mosbach",
+        "phone": "06261-12077",
+        "email": "wilder@vhs-mosbach.de"
+      },
+      {
+        "name": "VHS Neckarsulm",
+        "region": "Neckarsulm",
+        "address": "Seestraße 15, 74172 Neckarsulm",
+        "phone": "087132-353502",
+        "email": "Dr.SabineRivier@neckarsulm.de"
+      },
+      {
+        "name": "VHS Nördlicher Breisgau",
+        "region": "Emmendingen",
+        "address": "Am Gaswerk 3, 79312 Emmendingen",
+        "phone": "07641-9225-27",
+        "email": "integration@vhs-em.de"
+      },
+      {
+        "name": "VHS Oberes Nagoldtal",
+        "region": "Calw",
+        "address": "Vorstadtplatz 15, 72202 Nagold",
+        "phone": "07452-93150",
+        "email": "sylvia.ehmann-oulad@vhs-nagold.de"
+      },
+      {
+        "name": "VHS Ostfildern",
+        "region": "Esslingen",
+        "address": "Esslinger Straße 26, 73760 Ostfildern",
+        "phone": "0711-3404802",
+        "email": "A.Koerfer-Naujoks@Ostfildern.de"
+      },
+      {
+        "name": "VHS Pforzheim-Enzkreis",
+        "region": "Stadtkreis",
+        "address": "Zerrenerstr. 29, 75172 Pforzheim",
+        "phone": "07231-380062",
+        "email": "schuster@vhs-pforzheim.de"
+      },
+      {
+        "name": "VHS Pfullendorf",
+        "region": "Sigmaringen",
+        "address": "Kirchplatz 1, 88630 Pfullendorf",
+        "phone": "0 75 52 / 25-1132",
+        "email": "hermine.reiter@stadt-pfullendorf.de"
+      },
+      {
+        "name": "VHS Ravensburg",
+        "region": "Ravensburg",
+        "address": "Wilhelmschule, Wilhelmstr. 5, 88212 Ravensburg",
+        "phone": "0751-36199-17",
+        "email": "vhs-rv@web.de"
+      },
+      {
+        "name": "VHS Reutlingen",
+        "region": "Reutlingen",
+        "address": "Spendhausstr. 6, 72764 Reutlingen",
+        "phone": "07121-336-100",
+        "email": "anmeldung@vhsrt.de"
+      },
+      {
+        "name": "VHS Rheinfelden",
+        "region": "Lörrach",
+        "address": "Hardtstr. 6, 79618 Rheinfelden",
+        "phone": "07623-7240-0",
+        "email": "info@vhs-rheinfelden.de"
+      },
+      {
+        "name": "VHS Rottenburg a.d. Laaber e.V.",
+        "region": "Rottenburg",
+        "address": "Georg-Pöschl-Straße 16, 84056 Rottenburg",
+        "phone": "08781-201511",
+        "email": "info@vhs-rottenburg-laaber.de"
+      },
+      {
+        "name": "VHS Schramberg",
+        "region": "Rottweil",
+        "address": "Hauptstr. 25, 78713 Schramberg",
+        "phone": "07422-29256",
+        "email": "vhs@schramberg.de"
+      },
+      {
+        "name": "VHS Schwäbisch Gmünd",
+        "region": "Ostalbkreis",
+        "address": "Am Münsterplatz 5, 73525 Schwäbisch Gmünd",
+        "phone": "07171-92515-0",
+        "email": "hschwimmbeck@gmuender-vhs.de"
+      },
+      {
+        "name": "VHS Schwäbisch Hall",
+        "region": "Schwäbisch Hall",
+        "address": "Salinenstr. 6-10 Haus der Bildung, 74523 Schwäbisch Hall",
+        "phone": "0791-97066-17",
+        "email": "m.miara@vhs-sha.de"
+      },
+      {
+        "name": "VHS Sinsheim",
+        "region": "Rhein-Neckar-Kreis",
+        "address": "Werderstr. 1, 74889 Sinsheim",
+        "phone": "07261-6577-0",
+        "email": "info@VHS-Sinsheim.de"
+      },
+      {
+        "name": "VHS Stuttgart",
+        "region": "Stadtkreis",
+        "address": "Fritz-Elsas-Str. 46-48, 70174 Stuttgart",
+        "phone": "0711/1873-748",
+        "email": "agnieszka.schulze@vhs-stuttgart.de"
+      },
+      {
+        "name": "VHS Tübingen",
+        "region": "Tübingen",
+        "address": "Katharinenstr. 18, 72072 Tübingen",
+        "phone": "07071-560329",
+        "email": "integration@vhs-tuebingen.de"
+      },
+      {
+        "name": "VHS Unteres Remstal",
+        "region": "Rems-Murr-Kreis",
+        "address": "Bürgermühlenweg 4, 71332 Waiblingen",
+        "phone": "07151-95880-0",
+        "email": "info@vhs-unteres-remstal.de"
+      },
+      {
+        "name": "VHS Villingen-Schwenningen",
+        "region": "Schwarzwald-Baar-Kreis",
+        "address": "Metzgergasse 8, 78054 Villingen-Schwenningen",
+        "phone": "07720-822276",
+        "email": "vhs@villingen-schwenningen.de"
+      },
+      {
+        "name": "VHS Wangen",
+        "region": "Wangen",
+        "address": "Zunfthausgasse 4, 88239 Wangen",
+        "phone": "07522 74242",
+        "email": "vhs@wangen.de"
+      },
+      {
+        "name": "Volkshochschule Öhringen",
+        "region": "Hohenlohekreis",
+        "address": "Uhlandstraße 23, 74613 Öhringen",
+        "phone": "07941-68-4250/4260",
+        "email": "volkshochschule@oehringen.de"
+      },
+      {
+        "name": "Zweckverband VHS Künzelsau",
+        "region": "Hohenlohekreis",
+        "address": "Kirchplatz 9, 74653 Künzelsau",
+        "phone": "079409219-0",
+        "email": "info@vhskuen.de"
+      }
+    ]
+  },
+  {
+    "id": "bavaria",
+    "nameZh": "巴伐利亚",
+    "nameDe": "Bavaria",
+    "listedCount": 121,
+    "venues": [
+      {
+        "name": "Akademia Zentrum für Kommunikation und Bildung GmbH - Nürnberg",
+        "region": "Kreisfreie Stadt",
+        "address": "Bahnhofsplatz 6, 90443 Nürnberg",
+        "phone": "0911-240562-0",
+        "email": "service@linguademia.de"
+      },
+      {
+        "name": "Anderwerk Deutschkurse",
+        "region": "Kreisfreie Stadt",
+        "address": "Hamburger Straße 32, 80809 München",
+        "phone": "089-45104024",
+        "email": "deutschkurse@anderwerk.de"
+      },
+      {
+        "name": "Bayerisches Rotes Kreuz",
+        "region": "Kreisfreie Stadt",
+        "address": "Goethestr. 53, 81379 München",
+        "phone": "089-2373-7421",
+        "email": "ebt@brk-muenchen.de"
+      },
+      {
+        "name": "Berufliche Fortbildungszentren der Bayerischen Wirtschaft gGmbH, bfz-Donauwörth-Ulm-Aalen",
+        "region": "Donau-Ries",
+        "address": "Dr. Friedrich-Drechsler-Str. 14, 86609 Donauwörth",
+        "phone": "0906-70677-0",
+        "email": "info-dua@bfz.de"
+      },
+      {
+        "name": "Bildungszentrum Stadt Nürnberg",
+        "region": "Kreisfreie Stadt",
+        "address": "Gewerbemuseumsplatz 1, 90403 Nürnberg",
+        "phone": "0911 231-3147",
+        "email": "bz-info@stadt.nuernberg.de"
+      },
+      {
+        "name": "Deutsche Angestellten-Akademie GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Marsstraße 42, 80335 München",
+        "phone": "089-544302-0",
+        "email": "info.muenchen@daa.de"
+      },
+      {
+        "name": "Euro-Bildungswerk Nürnberg/Euro-Schulen Nordbayern",
+        "region": "Kreisfreie Stadt",
+        "address": "Solgerstr. 16a/18, 90429 Nürnberg",
+        "phone": "0911/2870750",
+        "email": "info@ebw.nuernberg.eso.de"
+      },
+      {
+        "name": "Euro-Schulen Aschaffenburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Goldbacher Str. 6, 63739 Aschaffenburg",
+        "phone": "06142-966076",
+        "email": "mayer.michaele@es.aschaffenburg.eso.de"
+      },
+      {
+        "name": "Euro-Schulen Nordbayern",
+        "region": "Kreisfreie Stadt",
+        "address": "Herzogenstr. 8, 97070 Würzburg",
+        "phone": "0931/29991-0",
+        "email": "info@es.nordby.eso.de"
+      },
+      {
+        "name": "Hilfe von Mensch zu Mensch",
+        "region": "Kreisfreie Stadt",
+        "address": "Marsstr. 25, 80335 München",
+        "phone": "089-189179822",
+        "email": "naim.aladjuz@hvmzm.de"
+      },
+      {
+        "name": "inlingua Sprachenschule e. K.",
+        "region": "Kreisfreie Stadt",
+        "address": "Ludwigstraße 18, 85049 Ingolstadt",
+        "phone": "0841-885185-0",
+        "email": "info@inlingua-ingolstadt.de"
+      },
+      {
+        "name": "Inlingua Sprachschule U.&C. Bernau GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Sendlinger Torplatz 6, 80336 München",
+        "phone": "089-2311530",
+        "email": "info@inlingua-muenchen.de"
+      },
+      {
+        "name": "ISE Sprach -und Berufsbildungszentrum GmbH",
+        "region": "Amberg-Sulzbach",
+        "address": "Kaiser-Ludwig-Ring 9, 92224 Amberg",
+        "phone": "09661-8147-0",
+        "email": "info@ise-berufsbildung.de"
+      },
+      {
+        "name": "Kolping Akademie Ingolstadt gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Johannesstraße 11, 85049 Ingolstadt",
+        "phone": "0841 / 933010",
+        "email": "info@kolping-ingolstadt.de"
+      },
+      {
+        "name": "Kommunaler Zweckverband der Volkshochschule Passau",
+        "region": "Kreisfreie Stadt",
+        "address": "Nikolastr. 18, 94032 Passau",
+        "phone": "0851-9598028",
+        "email": "info@vhs-passau.de"
+      },
+      {
+        "name": "MAS Sprachschule München",
+        "region": "Kreisfreie Stadt",
+        "address": "Lindwurmstr. 109, 80337 München",
+        "phone": "089-46139464",
+        "email": "info@mas-sprachschule.de"
+      },
+      {
+        "name": "Münchner VHS GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Rosenheimer Str. 5, 81667 München",
+        "phone": "089-48006-6169",
+        "email": "renate.aumueller@mvhs.de"
+      },
+      {
+        "name": "Oberallgäuer VHS",
+        "region": "Oberallgäu",
+        "address": "Hindelanger Str. 37, 87527 Sonthofen",
+        "phone": "08321-667345",
+        "email": "te@oa-vhs.de"
+      },
+      {
+        "name": "VHS Aschaffenburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Luitpoldstr. 2, 63739 Aschaffenburg",
+        "phone": "06021-38688-55",
+        "email": "nitsche@vhs-aschaffenburg.de"
+      },
+      {
+        "name": "VHS Aichach-Friedberg e.V.",
+        "region": "Aichach-Friedberg",
+        "address": "Steubstr. 3, 86551 Aichach",
+        "phone": "08251-8737-14",
+        "email": "gyoergyi.derdak@vhs-aichach-friedberg.de"
+      },
+      {
+        "name": "VHS Alt-/Neuötting und Töging e. V.",
+        "region": "Altötting",
+        "address": "Neuöttinger Str. 32, 84503 Altötting",
+        "phone": "08671-12077",
+        "email": "vhs.Alt-Neuoetting@t-online.de"
+      },
+      {
+        "name": "VHS ARBERLAND",
+        "region": "Regen",
+        "address": "Amtsgerichtstr. 6 - 8, 94209 Regen",
+        "phone": "09921-96054400",
+        "email": "info@vhs-arberland.de"
+      },
+      {
+        "name": "VHS Kaufering",
+        "region": "Kreisfreie Stadt",
+        "address": "Albert-Schweizer-Str.4a, 86916 Kaufering",
+        "phone": "08191-664-220",
+        "email": "vhs@kaufering.de"
+      },
+      {
+        "name": "VHS Augsburg e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Willy-Brandt-Platz 3a, 86153 Augsburg",
+        "phone": "0821-50265-35",
+        "email": "loibl_eberhardt@vhs-augsburg.de"
+      },
+      {
+        "name": "VHS Bad Reichenhall",
+        "region": "Berchtesgadener Land",
+        "address": "Aegidiplatz 3, 83435 Bad Reichenhall",
+        "phone": "08651-63054",
+        "email": "werner@vhs-reichenhall.de"
+      },
+      {
+        "name": "VHS Bamberg",
+        "region": "Bamberg",
+        "address": "Tränkgasse 4, 96052 Bamberg",
+        "phone": "0951-871108",
+        "email": "thomas.riegg@vhs-bamberg.de"
+      },
+      {
+        "name": "VHS Bamberg-Land e.V.",
+        "region": "Bamberg",
+        "address": "Ludwigstraße 25, 96052 Bamberg",
+        "phone": "0951-85759 od. 760",
+        "email": "info@vhs-bamberg-land.de"
+      },
+      {
+        "name": "VHS Bayreuth",
+        "region": "Kreisfreie Stadt",
+        "address": "Richard-Wagner-Str. 21, 95444 Bayreuth",
+        "phone": "0921-50703840",
+        "email": "volkshochschule@stadt.bayreuth.de"
+      },
+      {
+        "name": "VHS Straubing -Bogen",
+        "region": "Kreisfreie Stadt",
+        "address": "Klosterhof 2, 94327 Bogen",
+        "phone": "09422-505600",
+        "email": "vhs@vhs-bildungszentrum.de"
+      },
+      {
+        "name": "VHS Beilngries e.V.",
+        "region": "Eichstätt",
+        "address": "Ringstr. 16, 92339 Beilngries",
+        "phone": "08461-266",
+        "email": "bildung@vhs-beilngries.de"
+      },
+      {
+        "name": "VHS Buchloe e.V.",
+        "region": "Ostallgäu",
+        "address": "Bahnhofstr. 60, 86807 Buchloe",
+        "phone": "08241-90233",
+        "email": "info@vhs-buchloe.de"
+      },
+      {
+        "name": "VHS Burghausen-Burgkirchen e. V.",
+        "region": "Altötting",
+        "address": "Marktler Str. 16, 84489 Burghausen",
+        "phone": "08677-98778-0",
+        "email": "hr@vhs-burghausen.de"
+      },
+      {
+        "name": "VHS Coburg gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Löwenstr. 15, 96450 Coburg",
+        "phone": "09561-8825-70",
+        "email": "helga.kolbenschlag@vhs-coburg.de"
+      },
+      {
+        "name": "VHS d.Lkrs. Roth e.V.",
+        "region": "Roth",
+        "address": "Maria-Dorothea-Str. 8, 91161 Hilpoltstein",
+        "phone": "09174-474932",
+        "email": "roth@vhs-bayern.de"
+      },
+      {
+        "name": "VHS Dachau GmbH",
+        "region": "Dachau",
+        "address": "Dr.-Engert-Str. 4, 85221 Dachau",
+        "phone": "08131-352460",
+        "email": "matthias.buschhaus@vhs-dachau.de"
+      },
+      {
+        "name": "VHS Deggendorfer Land e. V.",
+        "region": "Deggendorf",
+        "address": "Amanstr. 11, 94469 Deggendorf",
+        "phone": "0991/ 32015 56",
+        "email": "info@vhs-deggendorf.de"
+      },
+      {
+        "name": "VHS der Gemeinden im Landkreis Roth",
+        "region": "Roth",
+        "address": "Hilpoltsteiner Str. 2a, 91154 Roth",
+        "phone": "09174-474940",
+        "email": "integration@vhs-roth.de"
+      },
+      {
+        "name": "VHS der Stadt Landsberg/Lech",
+        "region": "Landsberg-Lech",
+        "address": "Hubert-von-Herkomer-Str. 110, 86899 Landsberg am Lech",
+        "phone": "08191-128-111 od. -112",
+        "email": "s_frey_wegele@landsberg.de"
+      },
+      {
+        "name": "VHS der Stadt Marktredwitz",
+        "region": "Wunsiedel im Fichtelgebirge",
+        "address": "Fikentscherstr. 19, 95615 Marktredwitz",
+        "phone": "09231-5115",
+        "email": "vhs@marktredwitz.de"
+      },
+      {
+        "name": "VHS Bad Kisingen und Hammelburg",
+        "region": "Hammelburg",
+        "address": "Rathausplatz 1, 97688 Bad Kissingen",
+        "phone": "0971-807-4211",
+        "email": "integration@vhs-kisshab,de"
+      },
+      {
+        "name": "VHS der Stadt Schweinfurt",
+        "region": "Kreisfreie Stadt",
+        "address": "Markt 1, 97421 Schweinfurt",
+        "phone": "09721/51538",
+        "email": "vhs@schweinfurt.de"
+      },
+      {
+        "name": "VHS des Landkreises Ansbach",
+        "region": "Kreisfreie Stadt",
+        "address": "Crailsheimstr. 1, 91522 Ansbach",
+        "phone": "0981 468 6111",
+        "email": "kontakt@vhs-lkr-ansbach.de"
+      },
+      {
+        "name": "VHS des Landkreises Forchheim",
+        "region": "Forchheim",
+        "address": "Hornschuchallee 20, 91301 Forchheim",
+        "phone": "09191-861043",
+        "email": "silvia.bessler@vhs-forchheim.de"
+      },
+      {
+        "name": "VHS des Landkreises Wunsiedel",
+        "region": "Wunsiedel im Fichtelgebirge",
+        "address": "Jean-Paul-Str. 9, 95632 Wunsiedel",
+        "phone": "09232-80375",
+        "email": "vhs@landkreis-wunsiedel.de"
+      },
+      {
+        "name": "VHS des LK Freyung-Grafenau",
+        "region": "Freyung-Grafenau",
+        "address": "Frauenberg 17, 94481 Grafenau",
+        "phone": "08552-9665-0",
+        "email": "info@vhs-freyung-grafenau.de"
+      },
+      {
+        "name": "VHS Dillingen e. V.",
+        "region": "Dillingen",
+        "address": "Königstraße 37/38, 89407 Dillingen a. d. Donau",
+        "phone": "09071-54-195",
+        "email": "schmiedl@dillingen-donau.de"
+      },
+      {
+        "name": "VHS Dingolfing e. V.",
+        "region": "Dingolfing-Landau",
+        "address": "Stadionstr. 50, 84130 Dingolfing",
+        "phone": "08731-329491",
+        "email": "spies@vhs-dingolfing.de"
+      },
+      {
+        "name": "VHS Donauwörth",
+        "region": "Donau-Ries",
+        "address": "Spindeltal 5, 86609 Donauwörth",
+        "phone": "0906-8070",
+        "email": "info@vhs-don.de"
+      },
+      {
+        "name": "VHS Erlangen",
+        "region": "Kreisfreie Stadt",
+        "address": "Friedrichstr. 19/21, 91054 Erlangen",
+        "phone": "09131-862667",
+        "email": "alexandra.rauhtaeschlein@stadt.erlangen.de"
+      },
+      {
+        "name": "VHS f. d. Landkreis Regensburg e. V.",
+        "region": "Regensburg",
+        "address": "Pommernstr. 4, 93073 Neutraubling",
+        "phone": "09401-5255-12",
+        "email": "info@vhs-regensburg-land.de"
+      },
+      {
+        "name": "VHS Freising e.V.",
+        "region": "Freising",
+        "address": "Kammergasse 12, 85354 Freising",
+        "phone": "08161-490744",
+        "email": "deutsch@vhs-freising.org"
+      },
+      {
+        "name": "VHS Fürth gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Hirschenstr. 27/29, 90762 Fürth",
+        "phone": "0911-974-1702",
+        "email": "info@vhs-fuerth.de"
+      },
+      {
+        "name": "VHS Garmisch-Partenkirchen e.V.",
+        "region": "Garmisch-Partenkirchen",
+        "address": "Burgstr. 21, 82467 Garmisch-Partenkirchen",
+        "phone": "08821/9590-40",
+        "email": "info@vhs-gap.de"
+      },
+      {
+        "name": "VHS Germering e.V.",
+        "region": "Fürstenfeldbruck",
+        "address": "Therese-Giehse-Platz 6, 82110 Germering",
+        "phone": "089-8414146",
+        "email": "integration@vhs-germering.de"
+      },
+      {
+        "name": "VHS Geschäftsstelle Neufarn-Hallbergmoos",
+        "region": "Ebersberg",
+        "address": "Bahnhofstraße 32, 85375 Neufahrn",
+        "phone": "08165-9751260",
+        "email": "office@vhs-neufahrn.de"
+      },
+      {
+        "name": "VHS Ebersberger Land / Grafing bei München",
+        "region": "Ebersberg",
+        "address": "Griesstr. 27, 85567 Grafing b. München",
+        "phone": "08092-8195-14",
+        "email": "info@vhs-ebersberger-land.de"
+      },
+      {
+        "name": "VHS Gröbenzell e.V.",
+        "region": "Fürstenfeldbruck",
+        "address": "Rathausstr. 1, 82194 Gröbenzell",
+        "phone": "08142-540529",
+        "email": "info@vhs-groebenzell.de"
+      },
+      {
+        "name": "VHS Gunzenhausen e.V.",
+        "region": "Weißenburg-Gunzenhausen",
+        "address": "Dr.-Martin-Luther-Platz 4, 91710 Gunzenhausen",
+        "phone": "09831-80666",
+        "email": "info@vhs-gunzenhausen.de"
+      },
+      {
+        "name": "VHS Herrsching",
+        "region": "Starnberg",
+        "address": "Kienbachstr. 3, 82211 Herrsching",
+        "phone": "08152-4250",
+        "email": "info@vhs-herrsching.de"
+      },
+      {
+        "name": "VHS Herzogenaurach",
+        "region": "Erlangen Höchstadt",
+        "address": "Badgasse 4, 91074 Herzogenaurach",
+        "phone": "09132-901324",
+        "email": "vhs@herzogenaurach.de"
+      },
+      {
+        "name": "VHS im Ldkr. Neumarkt/Opf.",
+        "region": "Neumarkt i.d. Oberpfalz",
+        "address": "Gartenstr. 1, 92318 Neumarkt i.d.OPf.",
+        "phone": "09181-2595-14",
+        "email": "info@vhs-neumarkt.de"
+      },
+      {
+        "name": "VHS im Norden des Landkreises München",
+        "region": "München",
+        "address": "Telschowstraße 5-7, 85748 Garching b. München",
+        "phone": "089-550517-0",
+        "email": "info@vhs-nord.de"
+      },
+      {
+        "name": "VHS Ingolstadt",
+        "region": "Kreisfreie Stadt",
+        "address": "Hallstr. 5, 85049 Ingolstadt",
+        "phone": "0841-305-1854",
+        "email": "info@ingolstadt.de"
+      },
+      {
+        "name": "VHS Kaufbeuren e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Spitaltor 5, 87600 Kaufbeuren",
+        "phone": "08341-8399",
+        "email": "wendlinger@vhs-kaufbeuren.de"
+      },
+      {
+        "name": "VHS Kempten",
+        "region": "Kreisfreie Stadt",
+        "address": "Bodmanstr. 2, 87435 Kempten (Allgäu)",
+        "phone": "0831-70496513",
+        "email": "roth@vhs-kempten.de"
+      },
+      {
+        "name": "VHS Kreis Kronach e.V.",
+        "region": "Kronach",
+        "address": "Kulmbacher Str. 1, 96317 Kronach",
+        "phone": "09261-606016",
+        "email": "info@vhs-kronach.de"
+      },
+      {
+        "name": "VHS Landkreis Amberg-Sulzbach",
+        "region": "Amberg-Sulzbach",
+        "address": "Obere Gartenstr. 3, 92237 Sulzbach-Rosenberg",
+        "phone": "09661-80294",
+        "email": "info@vhs-as.de"
+      },
+      {
+        "name": "VHS Landkreis Pfaffenhofen a. d. Ilm",
+        "region": "Pfaffenhofen a.d. Ilm",
+        "address": "Ingolstädter Str. 3, 85276 Pfaffenhofen",
+        "phone": "08441-490480",
+        "email": "vhs@landratsamt-paf.de"
+      },
+      {
+        "name": "VHS Landshut e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Ländgasse 41, 84028 Landshut",
+        "phone": "0871-92292-0",
+        "email": "sprachen@vhs-landshut.de"
+      },
+      {
+        "name": "VHS Lindau",
+        "region": "Lindau (Bodensee)",
+        "address": "Uferweg 7, 88131 Lindau",
+        "phone": "08382-27748-16",
+        "email": "vhs@lindau.de"
+      },
+      {
+        "name": "VHS Lohr-Gemünden",
+        "region": "Main-Spessart",
+        "address": "Ludwigstraße 16, 97816 Lohr a. Main",
+        "phone": "09352-848-480",
+        "email": "vhs@lohr.de"
+      },
+      {
+        "name": "VHS Mainburg e. V.",
+        "region": "Kehlheim",
+        "address": "Mitterweg 8, 84048 Mainburg",
+        "phone": "08751-8778-15",
+        "email": "integration@vhs-mainburg.de"
+      },
+      {
+        "name": "VHS Memmingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Ulmer Str. 19, 87700 Memmingen",
+        "phone": "08331-850-139",
+        "email": "vhs@memmingen.de"
+      },
+      {
+        "name": "VHS Moosburg e.V.",
+        "region": "Freising",
+        "address": "Stadtplatz 2, 85368 Moosburg",
+        "phone": "08761-7225-11",
+        "email": "zeljka.tomic@vhs-moosburg.de"
+      },
+      {
+        "name": "VHS Mühldorf e. V.",
+        "region": "Mühldorf am Inn",
+        "address": "Schlörstr. 1, 84453 Mühldorf a. Inn",
+        "phone": "08631-990314",
+        "email": "info@vhs-muehldorf.de"
+      },
+      {
+        "name": "VHS Rieser Nördlingen e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Marktplatz 20, 86720 Nördlingen",
+        "phone": "09081-84182",
+        "email": "vhs@noerdlingen.de"
+      },
+      {
+        "name": "VHS Neuburg/Donau e.V.",
+        "region": "Neuburg-Schrobenhausen",
+        "address": "Franziskanerstr. 200, 86633 Neuburg",
+        "phone": "08431-9119",
+        "email": "vhsneuburg@gmx.de"
+      },
+      {
+        "name": "VHS Oberland e.V. /Holzkirchen",
+        "region": "Miesbach",
+        "address": "Wallenburger Str. 16a, 83714 Miesbach",
+        "phone": "08024-4678982",
+        "email": "integration-miesbach@vhs-oberland.de"
+      },
+      {
+        "name": "VHS Oberschleißheim e. V.",
+        "region": "Oberschleißheim",
+        "address": "Theodor-Heuss-Str. 27, 85764 Oberschleißheim",
+        "phone": "089-3153806",
+        "email": "kontakt@vhs.de"
+      },
+      {
+        "name": "VHS Puchheim e.V.",
+        "region": "Fürstenfeldbruck",
+        "address": "Am Grünen Markt 7, 82178 Puchheim",
+        "phone": "089-8072999",
+        "email": "info@vhs-puchheim.de"
+      },
+      {
+        "name": "VHS Rosenheim",
+        "region": "Kreisfreie Stadt",
+        "address": "Innsbrucker Str. 3, 83022 Rosenheim",
+        "phone": "08031-361456",
+        "email": "bianca.stein-steffan@rosenheim.de"
+      },
+      {
+        "name": "VHS Rottal-Inn West, Geschäftsstelle Eggenfelden",
+        "region": "Rottal-Inn",
+        "address": "Rathausplatz 1, 84307 Eggenfelden",
+        "phone": "08721-1626",
+        "email": "info@vhs-rottalinn-west.de"
+      },
+      {
+        "name": "VHS Schwabach",
+        "region": "Kreisfreie Stadt",
+        "address": "Königsplatz 29a, 91126 Schwabach",
+        "phone": "09122-860-204",
+        "email": "vhs@schwabach.de"
+      },
+      {
+        "name": "VHS Schwarzachtal",
+        "region": "Nürnberger Land",
+        "address": "Penzenhofener Str. 1, 90610 Winkelhaid",
+        "phone": "09187-972034",
+        "email": "info@vhs-schwarzachtal.de"
+      },
+      {
+        "name": "VHS Schrobenhausen e.V.",
+        "region": "Neuburg-Schrobenhausen",
+        "address": "Lenbachstraße 22, 86529 Schrobenhausen",
+        "phone": "08252-89400",
+        "email": "vhs-sob.de"
+      },
+      {
+        "name": "VHS Stadt Fürstenfeldbruck e.V.",
+        "region": "Fürstenfeldbruck",
+        "address": "Niederbronnerweg 5, 82256 Fürstenfeldbruck",
+        "phone": "08141-5014221",
+        "email": "cr@vhs-ffb.de"
+      },
+      {
+        "name": "VHS Städtedreieck e.V.",
+        "region": "Schwandorf",
+        "address": "Bahnhofstr. 44, 93142 Maxhütte-Haidhof",
+        "phone": "09471-30065",
+        "email": "meier@vhs-staedtedreieck.de"
+      },
+      {
+        "name": "VHS Starnberger See e. V.",
+        "region": "Starnberg",
+        "address": "Bahnhofplatz 14, 82319 Starnberg",
+        "phone": "08151-918497",
+        "email": "heeren@vhs-starnberger-see.de"
+      },
+      {
+        "name": "VHS Straubing gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Steinweg 56, 94315 Straubing",
+        "phone": "09421-8457-0",
+        "email": "info@vhs-straubing.de"
+      },
+      {
+        "name": "VHS Taufkirchen",
+        "region": "München",
+        "address": "Ahornring 121, 82024 Taufkirchen",
+        "phone": "089-614514-0",
+        "email": "info@vhs-taufkirchen.de"
+      },
+      {
+        "name": "VHS Traunreut e. V.",
+        "region": "Traunstein",
+        "address": "Marienstr. 20, 83301 Traunreut",
+        "phone": "08669-864814",
+        "email": "nicola.fastner@vhs-traunreut.de"
+      },
+      {
+        "name": "VHS Traunstein e. V.",
+        "region": "Traunstein",
+        "address": "Stadtplatz 38a, 83278 Traunstein",
+        "phone": "0861-9097166-13",
+        "email": "c.feil@vhs-traunstein.de"
+      },
+      {
+        "name": "VHS Trostberg e.V.",
+        "region": "Traunstein",
+        "address": "Heinrich-Braun-Str. 6, 83308 Trostberg",
+        "phone": "08621-6493914",
+        "email": "wieneke@vhs-trostberg.de"
+      },
+      {
+        "name": "VHS Unterhaching e.V.",
+        "region": "München",
+        "address": "Jahnstr. 1, 82008 Unterhaching",
+        "phone": "089-66547610 bzw. 16",
+        "email": "gora@vhs-unterhaching.de"
+      },
+      {
+        "name": "VHS Verband Landau e.V.",
+        "region": "Dingolfing-Landau",
+        "address": "Fleischgasse 60, 94405 Landau",
+        "phone": "09951-90180",
+        "email": "info@vhs-landau.de"
+      },
+      {
+        "name": "VHS Vilsbiburg",
+        "region": "Landshut",
+        "address": "Stadtplatz 30, 84137 Vilsbiburg",
+        "phone": "08741/2503",
+        "email": "janner@vhs-vilsbiburg.de"
+      },
+      {
+        "name": "VHS Waldkraiburg e.V.",
+        "region": "Mühldorf am Inn",
+        "address": "Am Kalander 1, 84478 Waldkraiburg",
+        "phone": "08638-889367",
+        "email": "alexander.rahm@vhs-waldkraiburg.de"
+      },
+      {
+        "name": "VHS Wasserburg / Inn e.V.",
+        "region": "Rosenheim",
+        "address": "Salzburger Str. 19, 83512 Wasserburg a. Inn",
+        "phone": "08071-4873",
+        "email": "info@vhs-wasserburg.de"
+      },
+      {
+        "name": "VHS Weiden-Neustadt gGmbH / Weiden i.d.Opf.",
+        "region": "Kreisfreie Stadt",
+        "address": "Luitpoldstr. 24, 92637 Weiden i.d.OPf.",
+        "phone": "0961-481780",
+        "email": "info@vhs-weiden-neustadt.de.de"
+      },
+      {
+        "name": "VHS Würzburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Juliuspromenade 68, 97070 Würzburg",
+        "phone": "0931-35593-16",
+        "email": "info@vhs-wuerzburg.de"
+      },
+      {
+        "name": "vhs-Weiterbildungsakademie Kehlheim e.V.",
+        "region": "Kehlheim",
+        "address": "Lederergasse 2, 93309 Kelheim",
+        "phone": "09441-1750980",
+        "email": "stefanie.Kristlbauer@vhs-weiterbildungsakademie.de"
+      },
+      {
+        "name": "VHS-ZV Unteres Pegnitztal",
+        "region": "Nürnberger Land",
+        "address": "Spitalstraße 5, 91207 Lauf",
+        "phone": "09123-184170",
+        "email": "info@vhs-lauf.de"
+      },
+      {
+        "name": "Volksbildungswerk Pfarrkirchen",
+        "region": "Rottal-Inn",
+        "address": "Stadtplatz 2, 84347 Pfarrkirchen",
+        "phone": "08561-30680",
+        "email": "volksbildungswerk@pfarrkirchen.de"
+      },
+      {
+        "name": "Volkshochschule Arnstorf",
+        "region": "Rottal-Inn",
+        "address": "Marktplatz 8, 94424 Arnstorf",
+        "phone": "08723-9791965",
+        "email": "vhs@arnstorf.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Ansbach",
+        "region": "Kreisfreie Stadt",
+        "address": "Kannenstraße 16, 91522 Ansbach",
+        "phone": "0981-51-311",
+        "email": "vhs@ansbach.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Regensburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Haidplatz 8, 93047 Regensburg",
+        "phone": "0941-5071436",
+        "email": "service.vhs@regensburg.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Selb",
+        "region": "Wunsiedel im Fichtelgebirge",
+        "address": "Lessingstr. 8, 95100 Selb",
+        "phone": "09287-760121",
+        "email": "volkshochschule@vhs-selb.de"
+      },
+      {
+        "name": "Volkshochschule des Landkreises Tirschenreuth",
+        "region": "Tirschenreuth",
+        "address": "Mähringer Str. 9, 95643 Tirschenreuth",
+        "phone": "09631-88204",
+        "email": "vhs@tirschenreuth.de"
+      },
+      {
+        "name": "Volkshochschule Eching e.V.",
+        "region": "Freising",
+        "address": "Roßbergstr. 8, 85386 Eching",
+        "phone": "089-541955-150",
+        "email": "office@vhs-eching-de"
+      },
+      {
+        "name": "Volkshochschule Günzburg",
+        "region": "Günzburg",
+        "address": "Bgm.-Landmann-Platz 2, 89312 Günzburg",
+        "phone": "08221-3686-0",
+        "email": "nathalie.charlet@vhs-guenzburg.de"
+      },
+      {
+        "name": "Volkshochschule Hofer Land e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Ludwigstraße 7, 95028 Hof",
+        "phone": "09281-71450",
+        "email": "info@vhs-landkreis-hof.de"
+      },
+      {
+        "name": "Volkshochschule im Landkreis Cham e.V.",
+        "region": "Cham",
+        "address": "Pfarrer-Seidl-Str. 1, 93413 Cham",
+        "phone": "09971-8501-17",
+        "email": "Info@vhs-cham.de"
+      },
+      {
+        "name": "Volkshochschule im Landkreis Unterallgäu e.V.",
+        "region": "Unterallgäu",
+        "address": "Maximilianstr. 60, 87719 Mindelheim",
+        "phone": "08261-9124",
+        "email": "info@vhs-ua.de"
+      },
+      {
+        "name": "VHS Rhön-Grabfeld gemeinnützige GmbH",
+        "region": "Rhön Grabfeld",
+        "address": "Marktplatz 2, 97638 Mellrichstadt",
+        "phone": "09776-7090980",
+        "email": "integration@die-vhs.de"
+      },
+      {
+        "name": "Volkshochschule Karlstadt",
+        "region": "Main-Spessart",
+        "address": "Langgasse 17, 97753 Karlstadt",
+        "phone": "93538612",
+        "email": "info@vhs-karlstadt.de"
+      },
+      {
+        "name": "Volkshochschule Kitzingen",
+        "region": "Kitzingen",
+        "address": "Paul-Eber-Haus, Schulhof 1, 97318 Kitzingen",
+        "phone": "09321-92994545",
+        "email": "vhs@stadt-kitzingen.de"
+      },
+      {
+        "name": "Volkshochschule Straubing-Bogen gGmbH",
+        "region": "Straubing-Bogen",
+        "address": "Klosterhof 2, 94327 Bogen",
+        "phone": "09422-505600",
+        "email": "vhs@vhs-straubing-bogen.de"
+      },
+      {
+        "name": "Volkshochschule Südost im Lkr. München",
+        "region": "München",
+        "address": "Haidgraben 1c, 85521 Ottobrunn",
+        "phone": "089-4423890",
+        "email": "deutsch@vhs-suedost.de"
+      },
+      {
+        "name": "wbb GmbH",
+        "region": "Freising",
+        "address": "Erdingerstraße 26, 85356 Freising",
+        "phone": "08161-538990",
+        "email": "maren.lang@wbb-kuchler.de"
+      },
+      {
+        "name": "Zweckverband VHS im Landkreis Erding",
+        "region": "Erding",
+        "address": "Lethnerstr. 13, 85435 Erding",
+        "phone": "08122-9787-0",
+        "email": "info@vhs-erding.de"
+      },
+      {
+        "name": "Volkshochschule Rottenburg an der Laaber e.V.",
+        "region": "Landshut",
+        "address": "Georg-Pöschl-Straße 16, 84056 Rottenburg a.d.Laaber",
+        "phone": "08781/201511",
+        "email": "info@vhs-rottenburg-laaber.de"
+      }
+    ]
+  },
+  {
+    "id": "bremen",
+    "nameZh": "不来梅",
+    "nameDe": "Bremen",
+    "listedCount": 2,
+    "venues": [
+      {
+        "name": "VHS Bremerhaven",
+        "region": "Kreisfreie Stadt",
+        "address": "Lloydstr. 15, 27568 Bremerhaven",
+        "phone": "0471-590-4736-4705",
+        "email": "katarzyna.geldner@vhs.bremerhaven.de"
+      },
+      {
+        "name": "VHS Bremen",
+        "region": "Kreisfreie Stadt",
+        "address": "Faulenstr. 67 - 69, 28195 Bremen",
+        "phone": "0421/361-3624",
+        "email": "jens.grund@vhs-bremen.de"
+      }
+    ]
+  },
+  {
+    "id": "hesse",
+    "nameZh": "黑森",
+    "nameDe": "Hesse",
+    "listedCount": 62,
+    "venues": [
+      {
+        "name": "BENGI e.V.",
+        "region": "Kassel",
+        "address": "Die Freiheit 14, 34117 Kassel",
+        "phone": "0561-50958",
+        "email": "bengi-ks@t-online.de"
+      },
+      {
+        "name": "Akademische Bildungsplattform e.V.",
+        "region": "Kassel",
+        "address": "Wilhelmstraße 6, 34117 Kassel",
+        "phone": "0561-890202",
+        "email": "cigdem.dumlu@abplattform.de"
+      },
+      {
+        "name": "Bildungspartner Main-Kinzig GmbH - Volkshochschule",
+        "region": "Main-Kinzig-Kreis",
+        "address": "Frankfurter Straße 30, 63571 Gelnhausen",
+        "phone": "06051-91679 0",
+        "email": "vhs@bildungspartner-mk.de"
+      },
+      {
+        "name": "Bildungsverein Kreidekreis e.V.",
+        "region": "Fulda",
+        "address": "Agnes-Huenninger-Str. 12, 36041 Fulda",
+        "phone": "0661/78450",
+        "email": "bvkk@gmx.de"
+      },
+      {
+        "name": "Curantis-Akademie",
+        "region": "Lahn-Dill-Kreis",
+        "address": "Charlotte-Bamberg-Str. 6, 35576 Wetzlar",
+        "phone": "06441-30990",
+        "email": "h.taub@curantes.de"
+      },
+      {
+        "name": "Das Spracheninstitut DSI",
+        "region": "Kassel",
+        "address": "Untere Königsstraße 58, 34117 Kassel",
+        "phone": "09561-72987-109",
+        "email": ""
+      },
+      {
+        "name": "Das Sprachinstitut DSI",
+        "region": "Kassel",
+        "address": "Untere Königsstr. 58, 34117 Kassel",
+        "phone": "056172987109",
+        "email": "info@spracheninstitut.com"
+      },
+      {
+        "name": "DIALOG-Institut Dr. Kilian",
+        "region": "Kassel",
+        "address": "Tischbeinstr. 32, 34121 Kassel",
+        "phone": "0561-710586",
+        "email": "institut@dialog-kilian.de"
+      },
+      {
+        "name": "Diwan-Marburg Akademie",
+        "region": "Marburg-Biedenkopf",
+        "address": "Neue Kasseler Straße 2, 35039 Marburg",
+        "phone": "06421-9839100",
+        "email": "info@diwan-marburg.de"
+      },
+      {
+        "name": "Euro-Schulen Wiesbaden",
+        "region": "Kreisfreie Stadt",
+        "address": "Luisenstr. 28, 65185 Wiesbaden",
+        "phone": "0611-99208-12",
+        "email": "info@es.wiesbaden.eso.de"
+      },
+      {
+        "name": "Grone Bildungszentren Hessen gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Gerbermühlstr. 11, 60388 Frankfurt am Main",
+        "phone": "069-408998752",
+        "email": "deutsch-frankfurt@grone.de"
+      },
+      {
+        "name": "BBZ Sprachenschule GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Gutleutstraße 34-36, 60329 Frankfurt am Main",
+        "phone": "069-348771460",
+        "email": "info@bbz-sprachschule.com"
+      },
+      {
+        "name": "Lernstudio H&G Frankfurt UG",
+        "region": "Kreisfreie Stadt",
+        "address": "Bleichstraße 38a, 60313 Frankfurt am Main",
+        "phone": "069-36603637",
+        "email": "lernstudiofrankfurt@gmail.com"
+      },
+      {
+        "name": "Avicenna Institut e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Zeil 41, 60313 Frankfurt am Main",
+        "phone": "069-71712874",
+        "email": "integration@avicenna-ev.de"
+      },
+      {
+        "name": "Inlingua Sprachschule Fulda",
+        "region": "Fulda",
+        "address": "Rabanusstraße 40-42, 36037 Fulda",
+        "phone": "0661-90272401",
+        "email": "info@inlingua-fulda.de"
+      },
+      {
+        "name": "Institut für Sprachen",
+        "region": "Kassel",
+        "address": "Die Freiheit 19, 34125 Kassel",
+        "phone": "0561-2860020",
+        "email": "info@ifs-kassel.de"
+      },
+      {
+        "name": "Kasseler Sprachen- und Wirtschaftsschulen",
+        "region": "Kassel",
+        "address": "Fünffensterstr. 4, 34117 Kassel",
+        "phone": "0561-7126630",
+        "email": "info@kasselersprachenschule.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Groß-Gerau",
+        "region": "Groß-Gerau",
+        "address": "Hauptstr. 1, 64521 Groß-Gerau",
+        "phone": "06152/1870-406",
+        "email": "info@KVHSGG.de"
+      },
+      {
+        "name": "Kulturzentrum Schlachthof",
+        "region": "Kassel",
+        "address": "Mombachstr. 12, 34127 Kassel",
+        "phone": "0561-983500",
+        "email": "g.pause@schlachthof-kassel.de"
+      },
+      {
+        "name": "KVHS Bergstr.",
+        "region": "Bergstr.",
+        "address": "Marktplatz 1, 64653 Lorsch",
+        "phone": "06251-1729666",
+        "email": ""
+      },
+      {
+        "name": "KVHS Kreis Limburg-Weilburg",
+        "region": "Limburg-Weilburg",
+        "address": "Diezer Str. 35, 65549 Limburg",
+        "phone": "06431-911614",
+        "email": "heimbuch@vhs-Limburg-Weilburg.de"
+      },
+      {
+        "name": "KVHS Waldeck-Frankenberg",
+        "region": "Waldeck-Frankenberg",
+        "address": "Briloner Landstraße 36, 34497 Korbach",
+        "phone": "05631 9773-0",
+        "email": "info@vhs-waldeck-frankenberg.de"
+      },
+      {
+        "name": "Lern-Planet",
+        "region": "Kreisfreie Stadt",
+        "address": "Rheinstr. 95, 65185 Wiesbaden",
+        "phone": "0611 3417341",
+        "email": "info@lern-planet.de"
+      },
+      {
+        "name": "Lernportal",
+        "region": "Groß-Gerau",
+        "address": "Grabenstr. 30, 65428 Rüsselsheim",
+        "phone": "06142-738828",
+        "email": "info@das-lernportal.com"
+      },
+      {
+        "name": "Lingua Oeconomicus e.V.",
+        "region": "Marburg-Biedenkopf",
+        "address": "Schlesierstr. 30, 35260 Stadtallendorf",
+        "phone": "06428-4416626",
+        "email": "wiegand@lingua-oeconomicus.de"
+      },
+      {
+        "name": "Sprache & Bildung GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Katharinenstr. 19, 35390 Gießen",
+        "phone": "0641-9717693",
+        "email": "v.prax@sprache-und-bildung.de"
+      },
+      {
+        "name": "Sprache & Bildung GmbH",
+        "region": "Lahn-Dill-Kreis",
+        "address": "Philipsstr. 2, 35576 Wetzlar",
+        "phone": "06441-48760",
+        "email": "wetzlar@sprache-und-bildung.de"
+      },
+      {
+        "name": "Sprachportal GmbH",
+        "region": "Lahn-Dill-Kreis",
+        "address": "Willy- brandt-Platz 7, 35578 Wetzlar",
+        "phone": "06441-87202441",
+        "email": "info@sprachportal-wetzlar.de"
+      },
+      {
+        "name": "Brüder Grimm Bildungszentrum",
+        "region": "Main-Kinzing-Kreis",
+        "address": "Langstr. 60, 63450 Hanau",
+        "phone": "06181-12506",
+        "email": "info@bruedergrimm.net"
+      },
+      {
+        "name": "SÜZ Sprachen- und Übersetzungszentrum",
+        "region": "Kassel",
+        "address": "Garde-du-Corps-Str. 1, 34117 Kassel",
+        "phone": "0561-5214868 + 69",
+        "email": "Suuezentrum@aol.com"
+      },
+      {
+        "name": "VHS - Kulturinstitute der Stadt Darmstadt",
+        "region": "Kreisfreie Stadt",
+        "address": "Große Bachgasse 2, 64283 Darmstadt",
+        "phone": "06151-133254",
+        "email": "karin.hock@darmstadt.de"
+      },
+      {
+        "name": "VHS Bad Homburg",
+        "region": "Hochtaunus",
+        "address": "Elisabethenstr. 4-8, 61348 Bad Homburg",
+        "phone": "",
+        "email": "info.vhs@bad-homburg.de"
+      },
+      {
+        "name": "VHS Darmstadt-Dieburg",
+        "region": "Darmstadt-Dieburg",
+        "address": "Albinistr. 23, 64807 Dieburg",
+        "phone": "06071-8812301",
+        "email": "f.marx@ladadi.de"
+      },
+      {
+        "name": "VHS der Stadt Fulda",
+        "region": "Fulda",
+        "address": "Unterm-Heilig-Kreuz 1, 36037 Fulda",
+        "phone": "0661/1021474",
+        "email": "Heidemarie.Franzmann@fulda.de"
+      },
+      {
+        "name": "VHS der Stadt Gießen",
+        "region": "Kreisfreie Stadt",
+        "address": "Fröbelstr. 65, 35394 Gießen",
+        "phone": "0641-3061469",
+        "email": "birgit.lesch-koenig@giessen.de"
+      },
+      {
+        "name": "VHS der Stadt Hanau",
+        "region": "Main-Kinzing-Kreis",
+        "address": "Ulanenplatz 4, 63452 Hanau",
+        "phone": "06181-92380-30",
+        "email": "eva.hintner@vhs-hanau.de"
+      },
+      {
+        "name": "VHS der Stadt Marburg",
+        "region": "Marburg-Biedenkopf",
+        "address": "Deutschhausstr. 38, 35037 Marburg",
+        "phone": "06421-201464",
+        "email": "kristine.umland@marburg-stadt.de"
+      },
+      {
+        "name": "VHS der Stadt Offenbach",
+        "region": "Kreisfreie Stadt",
+        "address": "Berliner Str. 77, 63065 Offenbach am Main",
+        "phone": "069-8065-3823",
+        "email": "Pia.Glueck@offenbach.de"
+      },
+      {
+        "name": "VHS der Stadt Rüsselsheim",
+        "region": "Groß-Gerau",
+        "address": "Am Treff 1, 65428 Rüsselsheim",
+        "phone": "06142-832737",
+        "email": "anmeldung@kultur123ruesselsheim.de"
+      },
+      {
+        "name": "VHS des Landkreises Gießen",
+        "region": "Gießen",
+        "address": "Kreuzweg 33, 35423 Lich",
+        "phone": "06404-916323",
+        "email": "werner.leipold@lkgi.de"
+      },
+      {
+        "name": "VHS des Landkreises Hersfeld-Rotenburg",
+        "region": "Hersfeld-Rotenburg",
+        "address": "Leinenweberstr. 5, 36251 Bad Hersfeld",
+        "phone": "06621-640929",
+        "email": ""
+      },
+      {
+        "name": "VHS des Schwalm-Eder-Kreises",
+        "region": "Schwalm-Eder-Kreis",
+        "address": "Parkstr. 6, 34576 Homberg (Efze)",
+        "phone": "05681-775404 od.-401",
+        "email": "vhs@schwalm-eder-kreis.de"
+      },
+      {
+        "name": "VHS Frankfurt am Main",
+        "region": "Kreisfreie Stadt",
+        "address": "Tituscorso 7, 60439 Frankfurt am Main",
+        "phone": "069-212-33378/ 069-212-45667",
+        "email": "maria.debarros-bruckner.vhs@stadt-frankfurt.de"
+      },
+      {
+        "name": "VHS Kreis Offenbach",
+        "region": "Offenbach",
+        "address": "Frankfurter Str. 160-166, Haus 1, 63303 Dreieich",
+        "phone": "06103-31311313",
+        "email": "vhs@kreis-offenbach.de"
+      },
+      {
+        "name": "VHS Lahn-Dill-Kreis",
+        "region": "Lahn-Dill-Kreis",
+        "address": "Bahnhofstr. 10, 35683 Dillenburg",
+        "phone": "02771/407-758",
+        "email": "info@lahn-dill-akademie.de"
+      },
+      {
+        "name": "VHS Lampertheim",
+        "region": "Bergstr.",
+        "address": "Haus am Römer, 68623 Lampertheim",
+        "phone": "06206-935364",
+        "email": "vhs@lampertheim.de"
+      },
+      {
+        "name": "VHS Main-Taunus-Kreis",
+        "region": "Main-Taunus-Kreis",
+        "address": "Pfarrgasse 38, 65719 Hofheim am Taunus",
+        "phone": "06192-990118",
+        "email": "flor@vhs-mtk.de"
+      },
+      {
+        "name": "VHS Marburg-Biedenkopf",
+        "region": "Marburg-Biedenkopf",
+        "address": "Hermann-Jacobsohn-Weg 1, 35039 Marburg",
+        "phone": "06421-405-6721",
+        "email": "BendelC@Marburg-Biedenkopf.de"
+      },
+      {
+        "name": "VHS Odenwaldkreis",
+        "region": "Odenwaldkreis",
+        "address": "Michelstädter Str. 12, 64711 Erbach",
+        "phone": "06062 70-1733",
+        "email": "m.doerr@odenwaldkreis.de"
+      },
+      {
+        "name": "VHS Region- Kassel",
+        "region": "Kassel",
+        "address": "Wilhelmshöher Allee 19-21, 34117 Kassel",
+        "phone": "0561-10030",
+        "email": "katharina-seewald@landkreiskassel.de"
+      },
+      {
+        "name": "VHS Rheingau-Taunus",
+        "region": "Rheingau-Taunus-Kreis",
+        "address": "Erich-Kästner-Str. 5, 65232 Taunusstein",
+        "phone": "06128-9277-11",
+        "email": "hellermann@vhs-rtk.de"
+      },
+      {
+        "name": "VHS Viernheim",
+        "region": "Bergstr.",
+        "address": "Bürgerhaus, Kreuzstr. 2-4, 68519 Viernheim",
+        "phone": "06204-963611",
+        "email": "vhs@viernheim.de"
+      },
+      {
+        "name": "VHS Wetzlar",
+        "region": "Lahn-Dill-Kreis",
+        "address": "Bahnhofstraße 3, 35578 Wetzlar",
+        "phone": "06441-9943",
+        "email": "daf@wetzlar.de"
+      },
+      {
+        "name": "VHS Wiesbaden e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Alcide-de-Gasperi-Str. 4/5, 65197 Wiesbaden",
+        "phone": "0611-9889130",
+        "email": "hschott@vhs-wiesbaden.de"
+      },
+      {
+        "name": "VHS-Kreis d. Hochtaunuskreises",
+        "region": "Hochtaunus",
+        "address": "Füllerstr. 1, 61440 Oberursel (Taunus)",
+        "phone": "06171-5848-0",
+        "email": "info@vhs-hochtaunus.de"
+      },
+      {
+        "name": "VHS-Volkshochschule des Vogelsbergkreises",
+        "region": "Vogelsbergkreis",
+        "address": "Färbergasse 1, 36304 Alsfeld",
+        "phone": "06631-792-770 o.-776",
+        "email": "monika.schenker@vogelsbergkreis.de"
+      },
+      {
+        "name": "KVHS Bergstraße",
+        "region": "Kreisfreie Stadt",
+        "address": "Marktpl. 1, 64653 Lorsch",
+        "phone": "06251-177815",
+        "email": "bjoern.brandhorst@bensheim.de"
+      },
+      {
+        "name": "Volkshochschule des Wetteraukreises",
+        "region": "Wetteraukreis",
+        "address": "Friedenstraße 18, 61169 Friedberg (Hessen)",
+        "phone": "06031-83-6630",
+        "email": "deutsch-info@vhs-wetterau.de"
+      },
+      {
+        "name": "Volkshochschule Jugend, Freizeit Werra-Meißner",
+        "region": "Werra-Meißner",
+        "address": "Vor dem Berge 1, 37269 Eschwege",
+        "phone": "05651-7429-15",
+        "email": "info@vhs-eschwege.de"
+      },
+      {
+        "name": "welcome gGmbH",
+        "region": "Rheingau-Taunus-Kreis",
+        "address": "Wisperstraße 37, 65591 Lorch",
+        "phone": "0163-9268832",
+        "email": "a.takhsh@welcome-ggmbh.com"
+      },
+      {
+        "name": "Caritasverband Wiesbaden-Rheingau-Taunus e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Friedrichstraße 26-28, 65185 Wiesbaden",
+        "phone": "0611-174-129",
+        "email": "ersoy.goeksen@caritas-wirt.de"
+      },
+      {
+        "name": "Omega Institut",
+        "region": "Hochtaunus",
+        "address": "Holzweg-Passage 12, 61440 Oberursel (Taunus)",
+        "phone": "06171 923 90 30",
+        "email": "info@omega-institut.de"
+      }
+    ]
+  },
+  {
+    "id": "hamburg",
+    "nameZh": "汉堡",
+    "nameDe": "Hamburg",
+    "listedCount": 9,
+    "venues": [
+      {
+        "name": "Arab World IC GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Michaelispassage 1, 20459 Hamburg",
+        "phone": "040-35772946",
+        "email": "kontakt@arabworld-ic.com"
+      },
+      {
+        "name": "Arbeit, Bildung, Integration (ABI) e.V",
+        "region": "Kreisfreie Stadt",
+        "address": "Steindamm 9, 20099 Hamburg",
+        "phone": "040-53789960",
+        "email": "abihh@t-online.de"
+      },
+      {
+        "name": "DAA Deutsche Angestellten-Akademie GmbH / Hamburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Hamburgret Straße 181, 22083 Hamburg",
+        "phone": "040-251529-0",
+        "email": "info.hamburg@daa.de"
+      },
+      {
+        "name": "FITS job konzepte GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Bürgerweide 4, 20535 Hamburg",
+        "phone": "040-3789030",
+        "email": "info@fits.de"
+      },
+      {
+        "name": "Hamburger Volkshochschule",
+        "region": "Kreisfreie Stadt",
+        "address": "Schanzenstr. 75-77, 20357 Hamburg",
+        "phone": "040-60929-5080",
+        "email": "daf@vhs-hamburg.de"
+      },
+      {
+        "name": "Interkulturelle Bildung Hamburg IBH e.V",
+        "region": "Kreisfreie Stadt",
+        "address": "Conventstraße 14, 22089 Hamburg",
+        "phone": "040-2530625-0",
+        "email": "info@ibhev.de"
+      },
+      {
+        "name": "KOM gemeinnützige Gesellschaft für berufliche Kompetenzentwicklung mbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Kieler Straße 208, 22525 Hamburg",
+        "phone": "040-3199160-16",
+        "email": "olga.debus@kom-bildung.de"
+      },
+      {
+        "name": "Akademikerbund Hamburg e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Große Bergstrße 6a, 22767 Hamburg",
+        "phone": "040-63737260",
+        "email": "altona@abh-kurse.de"
+      },
+      {
+        "name": "Türkische Gemeinde in Hamburg und Umgebung e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Hospitalstr. 111, 22767 Hamburg",
+        "phone": "040-4136609-13",
+        "email": "einbuergerungstest@tghamburg.de"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburg-vorpommern",
+    "nameZh": "梅克伦堡-前波美拉尼亚",
+    "nameDe": "Mecklenburg-Vorpommern",
+    "listedCount": 20,
+    "venues": [
+      {
+        "name": "Kreisvolkshochschule Ludwigslust-Parchim Geschäftsstelle Ludwigslust",
+        "region": "Ludwigslust-Parchim",
+        "address": "Garnisonstr. 1, 19288 Ludwigslust",
+        "phone": "03871-7224301",
+        "email": "vhs@kreis-lup.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Ludwigslust-Parchim Geschäftsstelle Parchim",
+        "region": "Ludwigslust-Parchim",
+        "address": "Ziegendorfer Chaussee 11, 19370 Parchim",
+        "phone": "03871-7224303",
+        "email": "vhs@kreis-lup.de"
+      },
+      {
+        "name": "Volkshochschule Mecklenburgische Seenplatte Außenstelle Neustrelitz",
+        "region": "Mecklenburgische Seenplatte",
+        "address": "Hittenkofer Str. 28, 17235 Neustrelitz",
+        "phone": "03981/205262",
+        "email": "vhs@lk-seenplatte.de"
+      },
+      {
+        "name": "Volkshochschule Mecklenburgische Seenplatte Geschäftsstelle Neubrandenburg",
+        "region": "Mecklenburgische Seenplatte",
+        "address": "Bienenweg 1, 17033 Neubrandenburg",
+        "phone": "0395-3517200",
+        "email": "vhs@lk-seenplatte.de"
+      },
+      {
+        "name": "Volkshochschule Mecklenburgische Seenplatte Außenstelle Waren",
+        "region": "Mecklenburgische Seenplatte",
+        "address": "Güstrower Str. 11, 17192 Waren",
+        "phone": "03991/125617",
+        "email": "vhs@lk-seenplatte.de"
+      },
+      {
+        "name": "Volkshochschule Mecklenburgische Seebplatte Außenstelle Demmin",
+        "region": "Mecklenburgische Seenplatte",
+        "address": "Saar Str. 22d, 17109 Demmin",
+        "phone": "03998/2585864",
+        "email": "vhs@lk-seenplatte.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Nordwestmecklenburg Standort Wismar",
+        "region": "Nordwestmecklenburg",
+        "address": "Badstaven 20, 23966 Wismar",
+        "phone": "03841/32670",
+        "email": "oswald@vhs-nwm.de"
+      },
+      {
+        "name": "Volkshochschule des Landkreises Rostock Außenstelle Bad Doberan",
+        "region": "Rostock",
+        "address": "Neue Reihe 50, 18209 Bad Doberan",
+        "phone": "038203/751250",
+        "email": "vhs@lkros.de"
+      },
+      {
+        "name": "Volkshochschule Landkreis Rostock Regionalstandort Güstrow",
+        "region": "Rostock",
+        "address": "John-Brinkmann-Straße 4, 18273 Güstrow",
+        "phone": "03843 755540201",
+        "email": "vhs@guestrow@rostock.de"
+      },
+      {
+        "name": "Volkshochschule der Hanse- und Universitätsstadt Rostock",
+        "region": "Stadtkreis",
+        "address": "Am Kabutzenhof 20a, 18057 Rostock",
+        "phone": "0381-3814324",
+        "email": "petra.suleiman@rostock.de"
+      },
+      {
+        "name": "VHS \"Ehm Welk\" d. Landeshauptstadt Schwerin",
+        "region": "Stadtkreis",
+        "address": "Puschkinstr. 13, 19055 Schwerin",
+        "phone": "0385-591270",
+        "email": "info-@vhs-schwerin.de"
+      },
+      {
+        "name": "Volkshochschulverband Mecklenburg-Vorpommern e.V.",
+        "region": "Stadtkreis",
+        "address": "Bertha-von-Suttner-Str. 5, 19061 Schwerin",
+        "phone": "0385/3031550",
+        "email": "info@vhs-verband-mv.de"
+      },
+      {
+        "name": "Agentur der Wirtschaft GmbH",
+        "region": "Stadtkreis",
+        "address": "Wismarsche Str. 302, 19055 Schwerin",
+        "phone": "0385/477330",
+        "email": "info@adwi.de"
+      },
+      {
+        "name": "Volkshochschulen Vorpommern-Greifswald Standort Anklam",
+        "region": "Vorpommern-Greifswald",
+        "address": "Markt 7, 17389 Anklam",
+        "phone": "03834/87604820",
+        "email": "vhs-anklam@kreis-vg.de"
+      },
+      {
+        "name": "Volkshochschulen Vorpommern-Greifswald Standort Greifswald",
+        "region": "Vorpommern-Greifswald",
+        "address": "Martin-Luther-Str. 7a, 17489 Greifswald",
+        "phone": "03834/87604830",
+        "email": "vhs-greifswald@kreis-vg.de"
+      },
+      {
+        "name": "Volkshochschulen Vorpommern-Greifswald Standort Pasewalk",
+        "region": "Vorpommern-Greifswald",
+        "address": "Gemeindewiesenweg 8, 17309 Pasewalk",
+        "phone": "03834/87604810",
+        "email": "vhs-pasewalk@kreis-vg.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Rügen",
+        "region": "Vorpommern-Rügen",
+        "address": "Schulstr. 2, 18528 Bergen auf Rügen",
+        "phone": "03838-200580",
+        "email": "liliana.heim@lk-vr.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Grimmen",
+        "region": "Vorpommern-Rügen",
+        "address": "Tribseeser Chaussee 4, 18507 Grimmen",
+        "phone": "038326/80020",
+        "email": "irene.melzer@lk-vr.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Vorpommern-Rügen Regionalstelle Stralsund",
+        "region": "Vorpommern-Rügen",
+        "address": "Tribseer Damm 76, 18437 Stralsund",
+        "phone": "03831/482311",
+        "email": "sabine.koppe@lk-vr.de"
+      },
+      {
+        "name": "inlingua Rostock",
+        "region": "Rostock",
+        "address": "Herweghstraße 1, 18055 Rostock",
+        "phone": "0381 24 29 225",
+        "email": "info@inlingua-rostock.de"
+      }
+    ]
+  },
+  {
+    "id": "lower-saxony",
+    "nameZh": "下萨克森",
+    "nameDe": "Lower Saxony",
+    "listedCount": 69,
+    "venues": [
+      {
+        "name": "Alpha Zentrum e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Jonaplatz 6, 37081 Göttingen",
+        "phone": "0551-3070999",
+        "email": "info@alpha-zentrum.de"
+      },
+      {
+        "name": "Arbeit und Leben Niedersachsen gGmbh -Göttingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Lange-Geismarstr. 72-73, 37073 Göttingen",
+        "phone": "0551-49507-0",
+        "email": "goettingen@aul-nds.de"
+      },
+      {
+        "name": "Arbeit und Leben Niedersachsen gGmbh -Wolfsburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Burgallee 6, 38446 Wolfsburg",
+        "phone": "05363-70840-0",
+        "email": "wolfsburg@aul-nds-de"
+      },
+      {
+        "name": "Bildungswerk der Niedersächsischen Wirtschaft GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Benzstraße 27, 38446 Wolfsburg",
+        "phone": "05361-46468-27",
+        "email": "monika.strauch-ackermann@bnw.de"
+      },
+      {
+        "name": "Inlingua Sprachschule Hannover GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Andreaestr. 3, 30159 Hannover",
+        "phone": "0511-324580",
+        "email": "info@inlingua-hannover.de"
+      },
+      {
+        "name": "Bildungsverein Soziales Lernen und Kommunikation e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Stadtstraße 17, 30161 Hannover",
+        "phone": "0511-344144",
+        "email": "info@bildungsverein.de"
+      },
+      {
+        "name": "Arbeit und Leben Niedersachsen gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Arndtstraße 20, 30167 Hannover",
+        "phone": "0511-12105-40",
+        "email": "integrationsbuero@aul-nds.de"
+      },
+      {
+        "name": "Berlitz Deutschland GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Waisenhausdamm 7, 38100 Braunschweig",
+        "phone": "0531-125313",
+        "email": "braunschweig@berlitz.de"
+      },
+      {
+        "name": "Stadt Wolfsburg / Bildungshaus / Volkshochschule Wolfsburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Hugo-Junkers-Weg 5, 38440 Wolfsburg",
+        "phone": "05361-28-3900",
+        "email": "deutsch@bildungshaus-wolfsburg.de"
+      },
+      {
+        "name": "Euro-Schulen Oldenburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Staulinie 11, 26122 Oldenburg",
+        "phone": "0441-21840-0",
+        "email": "info@es.oldenburg.eso.de"
+      },
+      {
+        "name": "KVHS Ammerland",
+        "region": "Ammerland",
+        "address": "Am Röttgen 60, 26655 Westerstede",
+        "phone": "04488-5651001",
+        "email": "kvhs-sprachen@ammerland.de"
+      },
+      {
+        "name": "KVHS Aurich-Norden gGmbH Standort Norden",
+        "region": "Aurich",
+        "address": "Uffenstraße 1, 26605 Norden",
+        "phone": "04931-1870520",
+        "email": "info@kvhs-norden.de"
+      },
+      {
+        "name": "KVHS Gifhorn",
+        "region": "Gifhorn",
+        "address": "Freiherr-vom-Stein-Str. 24, 38518 Gifhorn",
+        "phone": "05371-9459-636",
+        "email": "inte@kvhs-gifhorn.de"
+      },
+      {
+        "name": "KVHS Goslar",
+        "region": "Goslar",
+        "address": "Klubgartenstr. 6, 38640 Goslar",
+        "phone": "05321-767543",
+        "email": "deutsch@vhs-goslar.de"
+      },
+      {
+        "name": "KVHS Göttingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Reinhäuser Landstr. 4 /Hinter den Höfen 14, 37083 Göttingen",
+        "phone": "05541-903611",
+        "email": "greve@kvhs-goettingen.de"
+      },
+      {
+        "name": "KVHS Helmstedt",
+        "region": "Helmstedt",
+        "address": "Bötticherstr. 2, 38350 Helmstedt",
+        "phone": "05351-120410",
+        "email": "info@kvhs-helmstedt.de"
+      },
+      {
+        "name": "KVHS Holzminden",
+        "region": "Holzminden",
+        "address": "Neue Str.7, 37603 Holzminden",
+        "phone": "05531 - 707 343",
+        "email": "krystyna.tessmann@landkreis-holzminden.de"
+      },
+      {
+        "name": "KVHS Landkreis Harburg",
+        "region": "Harburg",
+        "address": "Schulkamp 11A, 21220 Seevetal-Maschen",
+        "phone": "04105 / 5 99 40 - 14",
+        "email": "p.larsen@lkharburg.de"
+      },
+      {
+        "name": "KVHS Northeim",
+        "region": "Northeim",
+        "address": "Wallstr. 40, 37154 Northeim",
+        "phone": "05561 933261",
+        "email": "info@kvhs-northeim.de"
+      },
+      {
+        "name": "KVHS Peine",
+        "region": "Peine",
+        "address": "Stederdorfer Str.8/9, 31224 Peine",
+        "phone": "05171/401- 3240",
+        "email": "jboesel@kvhs-peine.de"
+      },
+      {
+        "name": "KVHS Uelzen / Lüchow-Dannenberg",
+        "region": "Uelzen",
+        "address": "Veerßer Str. 2, 29525 Uelzen",
+        "phone": "0581/976490 oder 9764912",
+        "email": "becker@allesbildung.de"
+      },
+      {
+        "name": "KVHS Vechta",
+        "region": "Vechta",
+        "address": "Bahnhofstr.1, 49377 Vechta",
+        "phone": "04441-9377814",
+        "email": "s.hagl@kvhs-vechta.de"
+      },
+      {
+        "name": "KVHS Wesermarsch GmbH",
+        "region": "Wesermarsch",
+        "address": "Postplatz 1, 26919 Brake",
+        "phone": "04401-938910 / 04401-936582",
+        "email": "h.boening@kvhs-wesermarsch.de"
+      },
+      {
+        "name": "KVHS Wolfenbüttel",
+        "region": "Wolfenbüttel",
+        "address": "Harzstr.2-5, 38300 Wolfenbüttel",
+        "phone": "05331-84-898 oder84-153",
+        "email": "biz-infopoint@lk-wf.de"
+      },
+      {
+        "name": "KVHS-Verden",
+        "region": "Verden",
+        "address": "Artilleriestr. 8, 27283 Verden (Aller)",
+        "phone": "04231-15160",
+        "email": "Kvhs-deutschprojekte@landkreis-verden.de"
+      },
+      {
+        "name": "Leine-VHS",
+        "region": "Hannover",
+        "address": "Senefelderstr. 19, 30880 Laatzen",
+        "phone": "0511-89886235",
+        "email": "ermisch@leine-vhs.de"
+      },
+      {
+        "name": "regioVHS Ganderkesee-Hude",
+        "region": "Oldenburg",
+        "address": "Rathausstr. 24, 27777 Ganderkesee",
+        "phone": "04222 - 44444",
+        "email": "info@regiovhs.de"
+      },
+      {
+        "name": "Sprachkompetenz und Bildung oHG",
+        "region": "Harburg",
+        "address": "Plankenstr. 3, 21423 Winsen (Luhe)",
+        "phone": "04171-7884919",
+        "email": "s-bgbr@web.de"
+      },
+      {
+        "name": "Städtische VHS Salzgitter",
+        "region": "Kreisfreie Stadt",
+        "address": "Thiestr. 26, 38226 Salzgitter",
+        "phone": "05341- 839 3689",
+        "email": "juergen.grundmann@stadt.salzgitter.de"
+      },
+      {
+        "name": "VHS Braunschweig GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Alte Waage 15, 38100 Braunschweig",
+        "phone": "0531 2412-200",
+        "email": "info@vhsinternational.de"
+      },
+      {
+        "name": "VHS Buxtehude",
+        "region": "Stade",
+        "address": "Bertha-von-Suttner-Allee 9, 21614 Buxtehude",
+        "phone": "04161-743432",
+        "email": "vhs@stadt.buxtehude.de"
+      },
+      {
+        "name": "VHS Celle e.V.",
+        "region": "Celle",
+        "address": "Trift 20, 29221 Celle",
+        "phone": "0 51 41 / 92 98 50",
+        "email": "info@vhs-celle.de"
+      },
+      {
+        "name": "VHS Cloppenburg",
+        "region": "Cloppenburg",
+        "address": "Altes Stadttor 16, 49661 Cloppenburg",
+        "phone": "04471-9469 0",
+        "email": "anmeldung@vhs-cloppenburg.de"
+      },
+      {
+        "name": "VHS Delmenhorst gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Am Turbinenhaus 11, 27749 Delmenhorst",
+        "phone": "04221 - 98 180-0",
+        "email": "deutsch@vhs-delmenhorst.de"
+      },
+      {
+        "name": "VHS der Stadt Cuxhaven",
+        "region": "Cuxhaven",
+        "address": "Abendrothstr. 16, 27474 Cuxhaven",
+        "phone": "04721-73 5225",
+        "email": "info@vhs-cuxhaven.de"
+      },
+      {
+        "name": "VHS der Stadt Osnabrück",
+        "region": "Kreisfreie Stadt",
+        "address": "Bergstr. 8, 49076 Osnabrück",
+        "phone": "0541/7506029",
+        "email": "mueller.be@vhs-osnabrueck.de"
+      },
+      {
+        "name": "VHS des Landkreises Diepholz",
+        "region": "Diepholz",
+        "address": "Am Petermoor 1B, 28857 Syke",
+        "phone": "04242-9764012",
+        "email": "deutsch-lernen@vhs-diepholz.de"
+      },
+      {
+        "name": "VHS Emden",
+        "region": "Kreisfreie Stadt",
+        "address": "An der Berufsschule 3, 26721 Emden",
+        "phone": "04921-915546",
+        "email": "r.jenkins@vhs-emden.de"
+      },
+      {
+        "name": "VHS Göttingen Osterode gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Neustädter Tor 1-3, 37520 Göttingen",
+        "phone": "05522-960 4454",
+        "email": "faridani@vhs-goettingen.de"
+      },
+      {
+        "name": "VHS Grafschaft Bentheim",
+        "region": "Grafschaft Bentheim",
+        "address": "Bernhard-Niehues-Str. 49, 48529 Nordhorn",
+        "phone": "Tel.: 05921/83 65 0",
+        "email": "info@vhs-grafschaft-bentheim.de"
+      },
+      {
+        "name": "VHS Hameln-Pyrmont",
+        "region": "Hameln-Pyrmont",
+        "address": "Sedanstr. 11, 31785 Hameln",
+        "phone": "05151 948224",
+        "email": "gorkow@vhs-hameln-pyrmont.de"
+      },
+      {
+        "name": "VHS Hannover Land",
+        "region": "Hannover",
+        "address": "Suttorfer Str. 8, 31535 Neustadt",
+        "phone": "05032 981985 (vormittags) 0511 3942298",
+        "email": "lachmund@vhs-hannover-land.de"
+      },
+      {
+        "name": "VHS Heidekreis gGmbH",
+        "region": "Soltau-Fallingbostel",
+        "address": "Kirchplatz 4, 29664 Walsrode",
+        "phone": "05161 948884",
+        "email": "aengler@vhs-heidekreis.de"
+      },
+      {
+        "name": "VHS Hildesheim",
+        "region": "Hildesheim",
+        "address": "Pfaffenstieg 4 – 5, 31134 Hildesheim",
+        "phone": "05121-9361921",
+        "email": "zerrath@vhs-hildesheim.de"
+      },
+      {
+        "name": "VHS im Landkreis Cuxhaven",
+        "region": "Cuxhaven",
+        "address": "Debstedter Str. 5a, 27607 Langen",
+        "phone": "04743-922-123",
+        "email": "i.weber@vhs-lk-cux.de"
+      },
+      {
+        "name": "VHS Langenhagen",
+        "region": "Hannover",
+        "address": "Stadtparkallee 35, 30853 Langenhagen",
+        "phone": "0511/7307-9708",
+        "email": "blauert@vhs-langenhagen.de"
+      },
+      {
+        "name": "VHS Ostkreis Hannover",
+        "region": "Hannover",
+        "address": "Rathausplatz 2, 31275 Lehrte",
+        "phone": "05132-500012",
+        "email": "vhs-ostkreis-hannover.de"
+      },
+      {
+        "name": "VHS Leer",
+        "region": "Leer",
+        "address": "Haneburgallee 8, 26789 Leer",
+        "phone": "0491-9299220",
+        "email": "info@vhs-leer.de"
+      },
+      {
+        "name": "VHS Lilienthal-Grasberg-Ritterhude-Worpswede",
+        "region": "Osterholz",
+        "address": "Klosterstr. 25, 28865 Lilienthal",
+        "phone": "04298-929237",
+        "email": "vhs@lilienthal.de"
+      },
+      {
+        "name": "VHS Lingen",
+        "region": "Emsland",
+        "address": "Am Pulverturm, 49808 Lingen",
+        "phone": "0591 91202300",
+        "email": "info@vhs-lingen.de"
+      },
+      {
+        "name": "VHS Meppen gGmbH",
+        "region": "Emsland",
+        "address": "Herzog-Arenberg-Str. 7, 49716 Meppen",
+        "phone": "05931 93 73-22",
+        "email": "marie-anne.horstmann@vhs-meppen.de"
+      },
+      {
+        "name": "VHS Nienburg",
+        "region": "Nienburg (Weser)",
+        "address": "Rühmkorffstr. 12, 31582 Nienburg",
+        "phone": "05021 967 614",
+        "email": "vhs@kreis-ni.de"
+      },
+      {
+        "name": "VHS Norden",
+        "region": "Aurich",
+        "address": "Gartenweg 21, 26506 Norden",
+        "phone": "04931-924149",
+        "email": "info@vhs-norden.de"
+      },
+      {
+        "name": "VHS Oldenburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Wallstr. 17, 26122 Oldenburg",
+        "phone": "0441 92391-26",
+        "email": "hagen@vhs-ol.de"
+      },
+      {
+        "name": "VHS Osnabrücker Land",
+        "region": "Kreisfreie Stadt",
+        "address": "Am Schölerberg 1, 49082 Osnabrück",
+        "phone": "0541 501 4022",
+        "email": "quappen@lkos.de"
+      },
+      {
+        "name": "VHS Osterholz-Scharmbeck-Hambergen",
+        "region": "Osterholz",
+        "address": "Marktplatz 10, 27710 Osterholz-Scharmbeck",
+        "phone": "04791-962323",
+        "email": "info@vhs-osterholz-scharmbeck.de"
+      },
+      {
+        "name": "VHS Papenburg gGmbH",
+        "region": "Emsland",
+        "address": "Hauptkanal rechts 72, 26871 Papenburg",
+        "phone": "04961/82312",
+        "email": "hermann.schade@vhs-papenburg.de"
+      },
+      {
+        "name": "VHS Rotenburg",
+        "region": "Rotenburg (Wümme)",
+        "address": "Am Kirchhof 10, 27356 Rotenburg(W)",
+        "phone": "04261 / 91 45 13",
+        "email": "Pfeiffer-ubadi@rotenburg-wuemme.de"
+      },
+      {
+        "name": "Arbeit und Leben Niedersachsen gGmbH",
+        "region": "Schaumburg",
+        "address": "Riemengasse 1, 31737 Rinteln",
+        "phone": "05751-9552650",
+        "email": "rinteln@aul-nds.de"
+      },
+      {
+        "name": "VHS Schaumburg",
+        "region": "Schaumburg",
+        "address": "Schloss 3c, 31675 Bückeburg",
+        "phone": "05722-95730",
+        "email": "ziert@vhs-schaumburg.de"
+      },
+      {
+        "name": "VHS Stade e. V.",
+        "region": "Stade",
+        "address": "Wallstr. 17, 21682 Stade",
+        "phone": "04141/4099-0",
+        "email": "meyer@vhs-stade.de"
+      },
+      {
+        "name": "VHS und Musikschule Friesland-Wittmund gGmbH",
+        "region": "Wittmund",
+        "address": "Finkenburgstraße 9, 26409 Wittmund",
+        "phone": "04462 863341",
+        "email": "info-vhs@vhs-frieslandwittmund.de"
+      },
+      {
+        "name": "VHS Wildeshausen",
+        "region": "Oldenburg",
+        "address": "Wittekindstr. 9, 27793 Wildeshausen",
+        "phone": "04431 - 71622",
+        "email": "info@vhs-wildeshausen.de"
+      },
+      {
+        "name": "VHS Wilhelmshaven gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Virchowstr. 29, 26382 Wilhelmshaven",
+        "phone": "04421 161479",
+        "email": "michael.hoecke@vhs-whv.de"
+      },
+      {
+        "name": "VHS Zeven",
+        "region": "Rotenburg (Wümme)",
+        "address": "Lindenstr. 6, 27404 Zeven",
+        "phone": "04281-936314",
+        "email": "mf@vhs-zeven.de"
+      },
+      {
+        "name": "Eleganz Bildungsplattform",
+        "region": "Kreisfreie Stadt",
+        "address": "Johannisstr. 98-99, 49074 Osnabrück",
+        "phone": "0541-57509",
+        "email": "info@eleganz-bp.de"
+      },
+      {
+        "name": "Volkshochschule Hannover",
+        "region": "Kreisfreie Stadt",
+        "address": "Burgstraße 14, 30159 Hannover",
+        "phone": "0511-168 44 787",
+        "email": "John.Nichol@Hannover-Stadt.de"
+      },
+      {
+        "name": "Sprachakademie (VIB e.V.)",
+        "region": "Kreisfreie Stadt",
+        "address": "Goseriede 12d, 30159 Hannover",
+        "phone": "0511-51533441",
+        "email": "info@sprachakademie.org"
+      },
+      {
+        "name": "Volkshochschule REGION Lüneburg",
+        "region": "Lüneburg",
+        "address": "Haagestr. 4, 21335 Lüneburg",
+        "phone": "04131 - 1566125",
+        "email": "birgit.borchert@vhs.lueneburg.de"
+      }
+    ]
+  },
+  {
+    "id": "north-rhine-westphalia",
+    "nameZh": "北莱茵-威斯特法伦",
+    "nameDe": "North Rhine-Westphalia",
+    "listedCount": 183,
+    "venues": [
+      {
+        "name": "Academia Espanola de Formacion e.V.",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Viktoriastraße 5, 53840 Troisdorf",
+        "phone": "02241-2615610",
+        "email": ""
+      },
+      {
+        "name": "Akademie Klausenhof",
+        "region": "Wesel",
+        "address": "Klausenhofstr. 100, 46499 Hamminkeln",
+        "phone": "02852-890",
+        "email": "spannhake@akademie-klausenhof.de"
+      },
+      {
+        "name": "Akademischer Verein zu Euregio e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Harscampstraße 15-17, 52062 Aachen",
+        "phone": "0241-402568",
+        "email": "info@akademie-bildung.de"
+      },
+      {
+        "name": "AKF Auslandskorrespondenten-Fachschule",
+        "region": "Kreisfreie Stadt",
+        "address": "Kortumstr. 69-71, 44787 Bochum",
+        "phone": "0234-12910",
+        "email": "akf.bochum@gmx.de"
+      },
+      {
+        "name": "Anton-Heinen-Volkshochschule des Kreises Heinsberg",
+        "region": "Heinsberg",
+        "address": "Valkenburger Str. 45, 52525 Heinsberg",
+        "phone": "02452/13-4319",
+        "email": "vhs@kreis-heinsberg.de"
+      },
+      {
+        "name": "ASG-Bildungsforum",
+        "region": "Düsseldorf",
+        "address": "Werdener Straße 4, 40227 Düsseldorf",
+        "phone": "0211-17401611",
+        "email": "asg@asg-bildungsforum.de"
+      },
+      {
+        "name": "Study.on",
+        "region": "Düsseldorf",
+        "address": "Immermannstraße 19, 40210 Düsseldorf",
+        "phone": "0211-98595070",
+        "email": "d.mursal@studyon.de"
+      },
+      {
+        "name": "Auslandsgesellschaft.de gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Steinstraße 48, 44002 Dortmund",
+        "phone": "0231-83800-0",
+        "email": "info@auslandsgesellschaft.de"
+      },
+      {
+        "name": "Bergische VHS-Solingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Birkenweiher 66, 42651 Solingen",
+        "phone": "0212-2903252",
+        "email": "info@bergische-vhs.de"
+      },
+      {
+        "name": "Bergische VHS-ZV Bergische Volkshochschule der Städte Solingen und Wuppertal",
+        "region": "Kreisfreie Stadt",
+        "address": "Auer Schulstr.20, 42103 Wuppertal",
+        "phone": "0202-563-2251",
+        "email": "info@bbb-ev.de"
+      },
+      {
+        "name": "Bochumer Bildungszentrum e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Westring 11, 44787 Bochum",
+        "phone": "0234-9128497",
+        "email": "w.elayadi@bbz-ev.de"
+      },
+      {
+        "name": "die insel VHS Marl",
+        "region": "Recklinghausen",
+        "address": "Bergstr. 230, 45768 Marl",
+        "phone": "02365/99-4220",
+        "email": "marina.chatziioannidou@marl.de"
+      },
+      {
+        "name": "Die Sprachwerkstatt",
+        "region": "Paderborn",
+        "address": "Stettiner Str. 40-42, 33106 Paderborn",
+        "phone": "05251/77999-0",
+        "email": "u.piepenbreier@die-sprachwerkstatt.de"
+      },
+      {
+        "name": "Dr. Bénédict Sprachen- und Wirtschaftsschule",
+        "region": "Oberbergischer Kreis",
+        "address": "Vollmerhauser Str. 30, 51645 Gummersbach",
+        "phone": "2261-500880",
+        "email": "info@benedict-gm.de"
+      },
+      {
+        "name": "DÜS Eckert Spracheninstitut GmbH",
+        "region": "Düsseldorf",
+        "address": "Immermannstraße 64c, 40210 Düsseldorf",
+        "phone": "0211-2718200",
+        "email": "mail@dues-eckert.de"
+      },
+      {
+        "name": "EuBIA Rhein Ruhr Ost GmbH / Duisburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Gallenkampstr.20, 47051 Duisburg",
+        "phone": "0203-72839520",
+        "email": "duisburg@eubia.de"
+      },
+      {
+        "name": "Euregio-Volkshochschule Gronau",
+        "region": "Borken",
+        "address": "Von-Keppel-Str. 10, 48599 Gronau (Westf.)",
+        "phone": "02565 404080",
+        "email": "vhs@gronau.de"
+      },
+      {
+        "name": "Euro-Schulen Niederrhein/Viersen",
+        "region": "Viersen",
+        "address": "Hormesfeld 9b, 41748 Viersen",
+        "phone": "02162-351040",
+        "email": "info@es.viersen.eso.de"
+      },
+      {
+        "name": "Euro-Schulen NRW Ost GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Kruppstr. 82-84, 40227 Düsseldorf",
+        "phone": "02051-28700",
+        "email": "info@es.duesseldorf.eso.de"
+      },
+      {
+        "name": "Euro-Schulen Rheinland-GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Maximilianstr. 20, 53111 Bonn",
+        "phone": "0228-97635480",
+        "email": "info@eso.de"
+      },
+      {
+        "name": "Forum bildungszentrum / Neues Innovatives Lernzentrum e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Wallstraße 2, 45468 Mühlheim a.d. Ruhr",
+        "phone": "0208-9952777",
+        "email": "dindar@forum-bz.de"
+      },
+      {
+        "name": "German Language Academy",
+        "region": "Kreisfreie Stadt",
+        "address": "Bahnhofstraße 3, 48143 Münster",
+        "phone": "0251 / 2707680",
+        "email": "info@german-language-academy.com"
+      },
+      {
+        "name": "Heinrich-Thöne-Volkshochschule",
+        "region": "Kreisfreie Stadt",
+        "address": "Bergstr. 1/3, 45479 Mülheim an der Ruhr",
+        "phone": "0208/4554313",
+        "email": "ulrike.voss-schulz@stadt-mh.de"
+      },
+      {
+        "name": "IB West gGmbH",
+        "region": "Wesel",
+        "address": "Schillwiese 13, 46485 Wesel",
+        "phone": "0281-98409-13",
+        "email": "andreas. kolloechter@ib.de"
+      },
+      {
+        "name": "IEC-International Education Centers GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Lise-Meitner-Straße 5 - 9, 42119 Wuppertal",
+        "phone": "0202 / 26158770",
+        "email": "info@internationaleducationcenters.de"
+      },
+      {
+        "name": "Akzentschule / Wuppertal",
+        "region": "Kreisfreie Stadt",
+        "address": "Friedrich-Engels-Allee 355, 42283 Wuppertal",
+        "phone": "0202-2574100",
+        "email": "akzentschule@web.de"
+      },
+      {
+        "name": "inlingua Center Essen",
+        "region": "Kreisfreie Stadt",
+        "address": "Flachsmarkt 1, 45127 Essen",
+        "phone": "0201 / 810130",
+        "email": "info@inlingua-essen.de"
+      },
+      {
+        "name": "Inlingua Iserlohn",
+        "region": "Märkischer Kreis",
+        "address": "In der Bredde 37, 58636 Iserlohn",
+        "phone": "02371-25724",
+        "email": "info@inlingua-iserlohn.de"
+      },
+      {
+        "name": "Internationaler Bund (IB) Solingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Am Neumarkt 50a, 42651 Solingen",
+        "phone": "0212-38212961",
+        "email": "Micha.Thom@ib.de"
+      },
+      {
+        "name": "KreisVHS Düren",
+        "region": "Düren",
+        "address": "Bismarckstr. 16, 52348 Düren",
+        "phone": "02421-222824/222836",
+        "email": "vhs@kreis-dueren.de"
+      },
+      {
+        "name": "Ideal Bildungsverein e.V.",
+        "region": "Düren",
+        "address": "Paradiesplatz 11, 52349 Düren",
+        "phone": "02421-209540",
+        "email": "info@ideal-bv.de"
+      },
+      {
+        "name": "KreisVHS Hochsauerland",
+        "region": "Hochsauerlandkreis",
+        "address": "Steinstraße 27, 59872 Meschede",
+        "phone": "02974-833096",
+        "email": "hesse@vhs-hsk.de"
+      },
+      {
+        "name": "Kultur- und Weiterbildungsbetrieb der Stadt Schwerte VHS",
+        "region": "Unna",
+        "address": "Am Markt 11, 58239 Schwerte",
+        "phone": "02304-104858",
+        "email": "klaus-dieter.tiffert@kuwebe.de"
+      },
+      {
+        "name": "KulturForum Steinfurt-VHS",
+        "region": "Steinfurt",
+        "address": "An der Hohen Schule 14, 48565 Steinfurt-Burgsteinfurt",
+        "phone": "02551/14820",
+        "email": "info@vhs-steinfurt.de"
+      },
+      {
+        "name": "Primus NRW Osr GmbH-Euro-Schulen Langenfeld",
+        "region": "Kreisfreie Stadt",
+        "address": "Gladbacher Str. 3-5, 40764 Langenfeld (Rheinland)",
+        "phone": "02173-8546582",
+        "email": "balk.ute@eso.de"
+      },
+      {
+        "name": "Primus NRW Ost GmbH-Euro-Schulen -Essen",
+        "region": "Kreisfreie Stadt",
+        "address": "Hängebank 7, 45127 Essen",
+        "phone": "0201-2248556",
+        "email": "Kraemer.Marlies@eso.de"
+      },
+      {
+        "name": "Primus NRW Ost GmbH-Euro-Schulen Mettmann",
+        "region": "Kreisfreie Stadt",
+        "address": "Oststr. 6-12, 40822 Mettmann",
+        "phone": "02051-28700",
+        "email": "info@es.velbert.eso.de"
+      },
+      {
+        "name": "Primus NRW Ost GmbH-Euro-Schulen Monheim am Rhein",
+        "region": "Kreisfreie Stadt",
+        "address": "Friedenauer Str. 17 II EKI-Haus, 40789 Mohnheim",
+        "phone": "02051-28700",
+        "email": "info@es.velbert.eso.de"
+      },
+      {
+        "name": "Primus NRW Ost GmbH-Euro-Schulen Ratingen",
+        "region": "Kreisfreie Stadt",
+        "address": "Harkortstr. 25, 40880 Ratingen",
+        "phone": "02102-883715",
+        "email": ""
+      },
+      {
+        "name": "Primus NRW Ost GmbH-Euro-Schulen Velbert",
+        "region": "Kreisfreie Stadt",
+        "address": "Oststraße 15, 42551 Velbert",
+        "phone": "02051/2870-0",
+        "email": "info@es. Velbert.eso.de"
+      },
+      {
+        "name": "Primus NRW Ost-GmbH-Euro-Schulen Wuppertal",
+        "region": "Kreisfreie Stadt",
+        "address": "Luisenstr. 64, 42103 Wuppertal",
+        "phone": "02051-28700",
+        "email": "info@es.velbert.eso.de"
+      },
+      {
+        "name": "Primus Rheinland GmbH - Euro-Schulen Köln",
+        "region": "Kreisfreie Stadt",
+        "address": "Widdersdorfer Str. 399, 50933 Köln",
+        "phone": "0221-9496680",
+        "email": "reiswich.elena@es.koeln.eso.de"
+      },
+      {
+        "name": "Primus Rheinland GmbH - Euro-Schulen Leverkusen",
+        "region": "Kreisfreie Stadt",
+        "address": "Bahnhofstr. 3, 51379 Leverkusen",
+        "phone": "02171-4047320",
+        "email": "info@es.leverkusen.eso.de"
+      },
+      {
+        "name": "Rhein Ruhr Bildungsverein e.V.",
+        "region": "Wesel",
+        "address": "Weidenweg 87, 47059 Duisburg",
+        "phone": "0203/299665",
+        "email": "info@rrb-ev.de"
+      },
+      {
+        "name": "Gemeinnützige Gesellschaft für Beschäftigungsförderung",
+        "region": "Kreisfreie Stadt",
+        "address": "Usedomerstr.17, 47167 Duisburg",
+        "phone": "0203-54424-190",
+        "email": "info@gfb-duisburg.de"
+      },
+      {
+        "name": "Rheinischer Dialog-und Bildungsverein e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Kantstr. 30, 47166 Duisburg",
+        "phone": "0203-4680280",
+        "email": "sprachkurse@rdub.de"
+      },
+      {
+        "name": "Schulungscenter Wuppertal",
+        "region": "Kreisfreie Stadt",
+        "address": "Albertstraße 47, 42289 Wuppertal",
+        "phone": "0202-453131",
+        "email": "info@schulungscenter-wuppertal.de"
+      },
+      {
+        "name": "SfS Schulungsgesellschaft mbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Königsberger Allee 69, 47058 Duisburg",
+        "phone": "0203-300850",
+        "email": "info@sfs.nrw"
+      },
+      {
+        "name": "SPUTNIK-SÜD",
+        "region": "Kreisfreie Stadt",
+        "address": "Wolfgang-Döring-Str. 4, 40595 Düsseldorf",
+        "phone": "021117053011",
+        "email": "sputniki@arcor.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Viersen",
+        "region": "Viersen",
+        "address": "Willy-Brand-Ring 40, 41747 Viersen",
+        "phone": "02162-934714",
+        "email": "Helga.Giesbertz@kreis-viersen.de"
+      },
+      {
+        "name": "VHS Lennetal",
+        "region": "Märkischer Kreis",
+        "address": "Brüderstr. 33, 58791 Werdohl",
+        "phone": "02392-918311",
+        "email": "integration@vhs-lennetal.de"
+      },
+      {
+        "name": "VHS - ZV Bad Driburg-Brakel-Nieheim-Steinheim",
+        "region": "Höxter",
+        "address": "Am Hellweg 9, 33014 Bad Driburg",
+        "phone": "05253-97407-0",
+        "email": "info@vhs-driburg.de"
+      },
+      {
+        "name": "VHS Ahaus",
+        "region": "Borken",
+        "address": "Hof zum Ahaus 4, 48683 Ahaus",
+        "phone": "02561-95370",
+        "email": "info@vhs-aktuellesforum.de"
+      },
+      {
+        "name": "VHS Bad Oeynhausen",
+        "region": "Minden-Lübbecke",
+        "address": "Kaiserstr. 14, 32545 Bad Oeynhausen",
+        "phone": "05731-142626",
+        "email": "ujvari@vhs-badoeynhausen.de"
+      },
+      {
+        "name": "VHS Beckum-Wadersloh",
+        "region": "Warendorf",
+        "address": "Paterweg 10, 59269 Beckum",
+        "phone": "02521-29700",
+        "email": "vhs@beckum.de"
+      },
+      {
+        "name": "VHS Bergisch-Land",
+        "region": "Rheinisch-Bergischer Kreis",
+        "address": "Rot-Kreuz-Straße 8a, 42929 Wermelskirchen",
+        "phone": "02196/94704-12",
+        "email": "ulrike.langholz@vhs-bergisch-land.de"
+      },
+      {
+        "name": "VHS Bocholt-Rhede-Isselburg",
+        "region": "Borken",
+        "address": "Südwall 4a, 46397 Bocholt",
+        "phone": "02871/252232",
+        "email": "vhs@mail.bocholt.de"
+      },
+      {
+        "name": "VHS Bochum",
+        "region": "Kreisfreie Stadt",
+        "address": "Gustav-Heinemann-Platz 2-6, 44787 Bochum",
+        "phone": "0234/9102818",
+        "email": "rherzog@bochum.de"
+      },
+      {
+        "name": "VHS Castrop-Rauxel",
+        "region": "Recklinghausen",
+        "address": "Europaplatz 1, 44575 Castrop-Rauxel",
+        "phone": "02305-1062646",
+        "email": "vhs@castrop-rauxel.de"
+      },
+      {
+        "name": "VHS Coesfeld",
+        "region": "Coesfeld",
+        "address": "Osterwicker Str. 29, 48653 Coesfeld",
+        "phone": "02541-9481-18",
+        "email": "vhs@coesfeld.de"
+      },
+      {
+        "name": "VHS Datteln",
+        "region": "Recklinghausen",
+        "address": "Kolpingstr. 1, 45711 Datteln",
+        "phone": "02363-107-230",
+        "email": "vhs@stadt-datteln.de"
+      },
+      {
+        "name": "VHS der Alten Hansestadt Lemgo",
+        "region": "Lippe",
+        "address": "Breitestr. 10, 32657 Lemgo",
+        "phone": "05261-213-278 o. 226",
+        "email": "z.thiemann@lemgo.de"
+      },
+      {
+        "name": "VHS der Stadt Aachen",
+        "region": "Kreisfreie Stadt",
+        "address": "Peterstr. 21/25, 52062 Aachen",
+        "phone": "0241-47920/4792-127",
+        "email": "winfried.casteel@mail.aachen.de"
+      },
+      {
+        "name": "VHS der Stadt Ahlen",
+        "region": "Warendorf",
+        "address": "Markt 15, 59227 Ahlen",
+        "phone": "02382-59409",
+        "email": "vhs@stadt.ahlen.de"
+      },
+      {
+        "name": "VHS der Stadt Bergkamen",
+        "region": "Unna",
+        "address": "Rathausplatz 1, 59192 Bergkamen",
+        "phone": "02307/284954",
+        "email": "vhs@bergkamen.de"
+      },
+      {
+        "name": "VHS der Stadt Bonn",
+        "region": "Kreisfreie Stadt",
+        "address": "Wilhelmstr. 34, 53111 Bonn",
+        "phone": "0228/775634",
+        "email": "marion.bachert@bonn.de"
+      },
+      {
+        "name": "VHS der Stadt Bottrop",
+        "region": "Kreisfreie Stadt",
+        "address": "Böckenhoffstr. 30, 46236 Bottrop",
+        "phone": "02041/703843",
+        "email": "info@vhs-bottrop.de"
+      },
+      {
+        "name": "VHS der Stadt Duisburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Königstr. 47, 47049 Duisburg",
+        "phone": "0203-283-3372",
+        "email": "g.boellert@stadt-duisburg.de"
+      },
+      {
+        "name": "VHS der Stadt Erkrath",
+        "region": "Mettmann",
+        "address": "Sedentaler Str. 105/107, 40699 Erkrath",
+        "phone": "0211-2407-4301",
+        "email": "elvira.finkelmeier@erkrath.de"
+      },
+      {
+        "name": "VHs der Stadt Kleve",
+        "region": "Kleve",
+        "address": "Hagsch Poort 22, 47533 Kleve",
+        "phone": "02821-7231-0",
+        "email": "renate.schmitz@kleve.de"
+      },
+      {
+        "name": "VHS der Stadt Köln",
+        "region": "Kreisfreie Stadt",
+        "address": "Im MediaPark 7, 50670 Köln",
+        "phone": "0221-221 23638",
+        "email": "ingrid.pehl@stadt-koeln.de"
+      },
+      {
+        "name": "VHS der Stadt Monheim",
+        "region": "Mettmann",
+        "address": "Tempelhofer Str. 15, 40789 Monheim am Rhein",
+        "phone": "02173/951741",
+        "email": "VHS@monheim.de"
+      },
+      {
+        "name": "VHS der Stadt Selm Bürgerhaus",
+        "region": "Unna",
+        "address": "Willy-Brandt-Platz 2, 59379 Selm",
+        "phone": "02592-9220",
+        "email": ""
+      },
+      {
+        "name": "VHS der Stadt Werne",
+        "region": "Unna",
+        "address": "Bahnhofstr. 8, 59368 Werne",
+        "phone": "02389-71539",
+        "email": ""
+      },
+      {
+        "name": "VHS des Kreises Viersen",
+        "region": "Viersen",
+        "address": "Willy-Brandt-Ring 40, 41747 Viersen",
+        "phone": "02162-9348-14",
+        "email": "helga.gisbertz@kreis-viersen.de"
+      },
+      {
+        "name": "VHS Detmold",
+        "region": "Lippe",
+        "address": "Krumme Str. 20, 32756 Detmold",
+        "phone": "05231-977259",
+        "email": "purrmann@vhs-detmold.de"
+      },
+      {
+        "name": "VHS Dormagen",
+        "region": "Neuss",
+        "address": "Langemarkstr. 1/3, 41539 Dormagen",
+        "phone": "02133-257304",
+        "email": "claudia.stawicki@vhsdormagen.de"
+      },
+      {
+        "name": "VHS Dorsten",
+        "region": "Recklinghausen",
+        "address": "Im Werth 6, 46282 Dorsten",
+        "phone": "02362-664183",
+        "email": "petra.duda@dorsten.de"
+      },
+      {
+        "name": "VHS Dortmund",
+        "region": "Kreisfreie Stadt",
+        "address": "Hansastr. 2/4, 44137 Dortmund",
+        "phone": "0231-50-24710",
+        "email": "rbommert@stadtdo.de"
+      },
+      {
+        "name": "VHS Dülmen-Haltern-Havixbeck",
+        "region": "Coesfeld",
+        "address": "Münsterstr. 29, 48249 Dülmen",
+        "phone": "02364-933-440",
+        "email": "vhs@haltern.de"
+      },
+      {
+        "name": "VHS Düsseldorf",
+        "region": "Kreisfreie Stadt",
+        "address": "Bertha-von-Suttner-Platz 1, 40227 Düsseldorf",
+        "phone": "211-8994996",
+        "email": "joanna.fuhrberg@duesseldorf.de"
+      },
+      {
+        "name": "VHS Emsdetten-Greven-Saerbeck",
+        "region": "Steinfurt",
+        "address": "Kirchstr. 20, 48282 Emsdetten",
+        "phone": "02572-960370",
+        "email": "kontakt@vhs-e-g-s.de"
+      },
+      {
+        "name": "VHS Ennepe-Ruhr-Süd",
+        "region": "Ennepe-Ruhr-Kreis",
+        "address": "Mittelstr. 86/88, 58285 Gevelsberg",
+        "phone": "02332/9186121",
+        "email": "vhs@vhs-en-sued.de"
+      },
+      {
+        "name": "VHS Eschweiler",
+        "region": "Aachen",
+        "address": "Kaiserstr. 4a, 52249 Eschweiler",
+        "phone": "02403-70270",
+        "email": "vhs@eschweiler.de"
+      },
+      {
+        "name": "VHS Essen",
+        "region": "Kreisfreie Stadt",
+        "address": "Burgplatz 1, 45127 Essen",
+        "phone": "0201-8843215",
+        "email": "Nikolaos.Georgakis@vhs.essen.de"
+      },
+      {
+        "name": "VHS für Troisdorf und Niederkassel",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Kölner Str. 2, 53840 Troisdorf",
+        "phone": "02241/87 44 72",
+        "email": "schwarzbach@vhs-tdf-ndk.de"
+      },
+      {
+        "name": "VHS Gelderland",
+        "region": "Kleve",
+        "address": "Kapuzinerstr. 34, 47608 Geldern",
+        "phone": "02831/937517",
+        "email": "guenter.marciniak@vhs-gelderland.de"
+      },
+      {
+        "name": "VHS Gelsenkirchen",
+        "region": "Kreisfreie Stadt",
+        "address": "Ebertstr. 19, 45875 Gelsenkirchen",
+        "phone": "0209/1692413",
+        "email": "vhs@gelsenkirchen.de"
+      },
+      {
+        "name": "VHS Gemeinde Alfter und Stadt Bornheim",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Alter Weiher 2, 53332 Bornheim",
+        "phone": "02222/945463",
+        "email": "vhs@stadt-bornheim.de"
+      },
+      {
+        "name": "VHS Gladbeck",
+        "region": "Recklinghausen",
+        "address": "Friedrichstr. 55, 45964 Gladbeck",
+        "phone": "02043/992455",
+        "email": "vhs@stadt-gladbeck.de"
+      },
+      {
+        "name": "VHS Grevenbroich",
+        "region": "Neuss",
+        "address": "Waagehaus, Stadtparkinsel, 41515 Grevenbroich",
+        "phone": "02181-608 353",
+        "email": "monika.born-moebius@Grevenbroich.de"
+      },
+      {
+        "name": "VHS Gummersbach",
+        "region": "Oberbergischer Kreis",
+        "address": "Rathausplatz 1, 51643 Gummersbach",
+        "phone": "02261-871539",
+        "email": "annelie.roggendorff@stadt-gummersbach.de"
+      },
+      {
+        "name": "VHS Gütersloh",
+        "region": "Gütersloh",
+        "address": "Hohenzollernstr. 43, 33330 Gütersloh",
+        "phone": "05241-82-2926",
+        "email": "Birgit.Osterwald@gt-net.de"
+      },
+      {
+        "name": "Prisma Bildungsplattform e.V. Hagen",
+        "region": "Kreisfreie Stadt",
+        "address": "Sparkassen-Karree 8, 58095 Hagen",
+        "phone": "02331-3486477",
+        "email": "f.karafil@prisma-bp.de"
+      },
+      {
+        "name": "VHS Hagen",
+        "region": "Kreisfreie Stadt",
+        "address": "Schwanenstr. 6-10, 58089 Hagen",
+        "phone": "02331/207-3745",
+        "email": "vhs@stadt-hagen.de"
+      },
+      {
+        "name": "VHS Harsewinkel-Schloß Holte-Stukenbrock-Verl",
+        "region": "Gütersloh",
+        "address": "Kirchstr. 2, 33758 Schloß Holte-Stukenbrock",
+        "phone": "05207-9174 - 12",
+        "email": "josef.lieneke@gt-net.de"
+      },
+      {
+        "name": "VHS Herne",
+        "region": "Kreisfreie Stadt",
+        "address": "Wilhelmstr. 37, 44649 Herne",
+        "phone": "02323/16-2841",
+        "email": "vhs@herne.de"
+      },
+      {
+        "name": "Bildungswerk Ibbenbüren",
+        "region": "Steinfurt",
+        "address": "Am Heidenturm 15, 49477 Ibbenbüren",
+        "phone": "05451-96730",
+        "email": "info@bildungswerk-ibbenbueren.de"
+      },
+      {
+        "name": "VHS Ibbenbüren",
+        "region": "Steinfurt",
+        "address": "Oststr. 28, 49477 Ibbenbüren",
+        "phone": "05451-931768",
+        "email": "ursula.neissner@ibbenbueren.de"
+      },
+      {
+        "name": "VHS im Kreis Herford",
+        "region": "Herford",
+        "address": "Münsterkirchplatz 1, 32052 Herford",
+        "phone": "05221/5905-28",
+        "email": "remin@vhsimkreisherford.de"
+      },
+      {
+        "name": "VHS Iserlohn",
+        "region": "Märkischer Kreis",
+        "address": "im Stadtbahnhof - Bahnhofsplatz 2, 58644 Iserlohn",
+        "phone": "02371/217-1945",
+        "email": "vhs@iserlohn.de"
+      },
+      {
+        "name": "VHS Jülicher Land",
+        "region": "Düren",
+        "address": "Am Aachener Tor 16, 52428 Jülich",
+        "phone": "02461-632-19",
+        "email": "vhs@juelich.de"
+      },
+      {
+        "name": "VHS Krefeld",
+        "region": "Kreisfreie Stadt",
+        "address": "Von-der-Leyen-Platz 2, 47798 Krefeld",
+        "phone": "02151/862658",
+        "email": "doris.schlimnat@krefeld.de"
+      },
+      {
+        "name": "VHS Kreis Euskirchen",
+        "region": "Euskirchen",
+        "address": "Baumstr. 2, 53879 Euskirchen",
+        "phone": "02251/6507425",
+        "email": "vanessa.becker@kreis-euskirchen.de"
+      },
+      {
+        "name": "VHS Kreis Siegen-Wittgenstein",
+        "region": "Siegen-Wittgenstein",
+        "address": "Koblenzer Str. 73, 57072 Siegen",
+        "phone": "0271-333-1526",
+        "email": "m_dumitrache@siegen-wittgenstein.de"
+      },
+      {
+        "name": "VHS Langenfeld",
+        "region": "Mettmann",
+        "address": "Konrad-Adenauer-Platz 1, 40764 Langenfeld (Rheinland)",
+        "phone": "02173-794 4555",
+        "email": "vhs@langenfeld.de"
+      },
+      {
+        "name": "VHS Lengerich",
+        "region": "Steinfurt",
+        "address": "Bahnhofstr. 108, 49525 Lengerich",
+        "phone": "05481-93880",
+        "email": "info@vhs-lengerich.de"
+      },
+      {
+        "name": "VHS Leverkusen",
+        "region": "Kreisfreie Stadt",
+        "address": "Am Büchelter Hof 9, 51373 Leverkusen",
+        "phone": "0214/406-4189",
+        "email": "vera.strittmatter@vhs-leverkusen.de"
+      },
+      {
+        "name": "VHS Lippe-Ost",
+        "region": "Lippe",
+        "address": "Parkallee 7, 32816 Schieder-Schwalenberg",
+        "phone": "05282-9804-0",
+        "email": "info@vhslippe-ost.de"
+      },
+      {
+        "name": "VHS Lippe-West",
+        "region": "Lippe",
+        "address": "Lange Str. 124, 32791 Lage",
+        "phone": "05232/9550-0",
+        "email": "heider@vhs-lw.de"
+      },
+      {
+        "name": "VHS Lippstadt",
+        "region": "Soest",
+        "address": "Barthstr. 2, 59557 Lippstadt",
+        "phone": "02941-2895-12 o.23",
+        "email": "vhs@stadt-lippstadt.de"
+      },
+      {
+        "name": "VHS Löhne",
+        "region": "Herford",
+        "address": "Werretalhalle Alte Bünder Str. 14, 32584 Löhne",
+        "phone": "05732-100-588",
+        "email": "vhs@loehne.de"
+      },
+      {
+        "name": "VHS Menden-Hemer-Balve",
+        "region": "Märkischer Kreis",
+        "address": "Untere Promenade 28, 58706 Menden",
+        "phone": "02373-903-8407",
+        "email": "m.wirtz@vhs-mhb.de"
+      },
+      {
+        "name": "VHS Moers",
+        "region": "Wesel",
+        "address": "Kastell 5, 47441 Moers",
+        "phone": "02841/201559",
+        "email": "ulrich.steuten@moers.de"
+      },
+      {
+        "name": "VHS Münster",
+        "region": "Kreisfreie Stadt",
+        "address": "Aegidiistraße 70, 48143 Münster",
+        "phone": "0251/4924362",
+        "email": "vhs@stadt-muenster.de"
+      },
+      {
+        "name": "VHS Nordkreis Aachen",
+        "region": "Aachen",
+        "address": "Übacher Weg 36, 52477 Alsdorf",
+        "phone": "02406/666413",
+        "email": "waltraud.pennartz@vhs-nordkreis-aachen.de"
+      },
+      {
+        "name": "VHS Oberbergischer Kreis",
+        "region": "Oberbergischer Kreis",
+        "address": "Mühlenbergweg 3, 51645 Gummersbach",
+        "phone": "02261-819015",
+        "email": "renee.scheer@vhs.obk.de"
+      },
+      {
+        "name": "VHS Paderborn",
+        "region": "Paderborn",
+        "address": "Kamp 43, 33098 Paderborn",
+        "phone": "05251-881262",
+        "email": "regina.brinkmann@paderborn.de"
+      },
+      {
+        "name": "VHS Ratingen",
+        "region": "Mettmann",
+        "address": "Lintorfer Str. 3, 40878 Ratingen",
+        "phone": "02102-550-4301",
+        "email": "vhs@ratingen.de"
+      },
+      {
+        "name": "VHS Ravensberg",
+        "region": "Gütersloh",
+        "address": "Kiskerstr. 2, 33790 Halle (Westf.)",
+        "phone": "05201/8109-0",
+        "email": "post@vhs-ravensberg.de"
+      },
+      {
+        "name": "VHS Reckenberg-Ems",
+        "region": "Gütersloh",
+        "address": "Kirchplatz 2, 33378 Rheda-Wiedenbrück",
+        "phone": "05242-9030-102",
+        "email": "petra.bobbenkamp@vhs-re.de"
+      },
+      {
+        "name": "VHS Recklinghausen",
+        "region": "Recklinghausen",
+        "address": "Herzogswall 17, 45657 Recklinghausen",
+        "phone": "02361/501996",
+        "email": "ulrich.gogolin@recklinghausen.de"
+      },
+      {
+        "name": "VHS Rheine",
+        "region": "Steinfurt",
+        "address": "Mühlenstr. 31, 48431 Rheine",
+        "phone": "05971-939-128",
+        "email": "britta.hermes@rheine.de"
+      },
+      {
+        "name": "VHS Rhein-Erft",
+        "region": "Rhein-Erft-Kreis",
+        "address": "An der Synagoge 2, 50321 Brühl",
+        "phone": "02232-945070",
+        "email": "vhs@vhs-rhein-erft.de"
+      },
+      {
+        "name": "VHS Rur-Eifel",
+        "region": "Düren",
+        "address": "Violengasse 2, 52349 Düren",
+        "phone": "02421-252579",
+        "email": "g.resch@dueren.de"
+      },
+      {
+        "name": "VHS Siebengebirge (Reg.-Bezirk Kln)",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Boserother Str. 74, 53639 Königswinter",
+        "phone": "02244-889-202",
+        "email": "integration@vhs-siebengebirge.de.de"
+      },
+      {
+        "name": "VHS Soest",
+        "region": "Soest",
+        "address": "Nöttenstr. 29, 59494 Soest",
+        "phone": "02921-103113",
+        "email": ""
+      },
+      {
+        "name": "VHS Stolberg",
+        "region": "Aachen",
+        "address": "Frankentalstr. 3, 52222 Stolberg (Rhld.)",
+        "phone": "02402-8624-57",
+        "email": "vhs@stolberg.de"
+      },
+      {
+        "name": "VHS Volmetal",
+        "region": "Märkischer Kreis",
+        "address": "Friedrich-Ebert-Str. 380, 58566 Kierspe",
+        "phone": "02359-4644",
+        "email": "vhs@vhs-volmetal.de"
+      },
+      {
+        "name": "VHS Waltrop",
+        "region": "Recklinghausen",
+        "address": "Ziegeleistr. 14, 45731 Waltrop",
+        "phone": "02309-9626-0",
+        "email": "vhs@vhs-waltrop.de"
+      },
+      {
+        "name": "VHS Warendorf",
+        "region": "Warendorf",
+        "address": "Freckenhorster Str. 43, 48231 Warendorf",
+        "phone": "02581-93840",
+        "email": "post@vhs-warendorf.de"
+      },
+      {
+        "name": "VHS Werl-Wickede(Ruhr)-Ense",
+        "region": "Soest",
+        "address": "Kirchplatz 5, 59457 Werl",
+        "phone": "02922-972411",
+        "email": "info@vhs-werl.de"
+      },
+      {
+        "name": "VHS Wesel-Hamminkeln-Schermbeck",
+        "region": "Wesel",
+        "address": "Ritterstr. 10/14, 46483 Wesel",
+        "phone": "0281-203-2366",
+        "email": "vhs@wesel.de"
+      },
+      {
+        "name": "VHS Wuppertal",
+        "region": "Kreisfreie Stadt",
+        "address": "Auer Schulstr.20, 42103 Wuppertal",
+        "phone": "020-563-2251 0202-563-2854",
+        "email": "barbara.simoleit@bergische-vhs.debeate.zwingmann@bergische-vhs.de"
+      },
+      {
+        "name": "VHS ZV Lippe-Ost",
+        "region": "Lippe",
+        "address": "Schloß Schieder, 32816 Schieder-Schwalenberg",
+        "phone": "05235-97956",
+        "email": "lemm@vhslippe-ost.de"
+      },
+      {
+        "name": "VHS ZV Unna-Fröndenberg-Holzwickende",
+        "region": "Unna",
+        "address": "Lindenplatz 1, 59423 Unna",
+        "phone": "02303-103734",
+        "email": "zib-vhs@stadt-unna.de"
+      },
+      {
+        "name": "Lernimpulse Witten e.V.",
+        "region": "Ennepe-Ruhr-Kreis",
+        "address": "Berliner Str. 7, 58452 Witten",
+        "phone": "02302-27863",
+        "email": "info@lernimpulse.de"
+      },
+      {
+        "name": "VHS ZV Witten-Wetter-Herdecke",
+        "region": "Ennepe-Ruhr-Kreis",
+        "address": "Ruhrstr. 86/ neu Holzkampstr. 7, 58452/ 58453 Witten",
+        "phone": "02302-9105015/ 023025818610",
+        "email": "info@vhs-wwh.de"
+      },
+      {
+        "name": "VHS Zweckverb. Bergheim",
+        "region": "Rhein-Erft-Kreis",
+        "address": "Bethlehemer Str. 25, 50126 Bergheim",
+        "phone": "02271-4760-0",
+        "email": "info@vhs-bergheim.de"
+      },
+      {
+        "name": "VHS Zweckverband Dinslaken - Voerde - Hünxe",
+        "region": "Wesel",
+        "address": "Friedrich-Ebert-Str. 84, 46535 Dinslaken",
+        "phone": "02064-41350",
+        "email": "integration@vhs-dinslaken.de"
+      },
+      {
+        "name": "VHS Zweckverband Velbert/Heiligenhaus",
+        "region": "Mettmann",
+        "address": "Nedderstr. 50, 42549 Velbert",
+        "phone": "02051/949618",
+        "email": "Flasspoehler@vhs-vh.de"
+      },
+      {
+        "name": "VHSKreis Lüdinghausen",
+        "region": "Coesfeld",
+        "address": "Amthaus 12, 59348 Lüdinghausen",
+        "phone": "02591-926345",
+        "email": "vhs-zellin@stadt-luedinghausen.de"
+      },
+      {
+        "name": "VHS-ZV Alpen-Rheinberg - Sonsbeck-Xanten",
+        "region": "Wesel",
+        "address": "Lützenhofstr. 9, 47495 Rheinberg",
+        "phone": "02843-90740-17",
+        "email": "Elisabeth.Keggenhoff-Ehrlich@vhs-rheinberg.de"
+      },
+      {
+        "name": "VHS-ZV Kaarst-Korschenbroich",
+        "region": "Neuss",
+        "address": "Am Schulzentrum 18, 41564 Kaarst",
+        "phone": "02131 - 963 941",
+        "email": "a.laacks@vhs-kk.de"
+      },
+      {
+        "name": "VHS-ZV Rhein-Sieg",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Ringstr. 24, 53721 Siegburg",
+        "phone": "02241-309746",
+        "email": "alexandra.haas@vhs-rhein-sieg.de"
+      },
+      {
+        "name": "VHS-Zweckverband Brilon-Marsberg-Olsberg",
+        "region": "Hochsauerlandkreis",
+        "address": "Kreuziger Mauer 31, 59929 Brilon",
+        "phone": "02961/6416",
+        "email": "brilon@vhs-bmo.de"
+      },
+      {
+        "name": "VHS-Zweckverband Diemel-Egge-Weser",
+        "region": "Höxter",
+        "address": "Rathaus zwischen den Städten, 34414 Warburg",
+        "phone": "05273 / 392-125",
+        "email": "andreas.knoblauch-flach@beverungen.de"
+      },
+      {
+        "name": "VHS-Zweckverband Goch",
+        "region": "Kleve",
+        "address": "Roggenstraße 39, 47574 Goch",
+        "phone": "02823-973 118",
+        "email": "monique.kling@vhs-goch.de"
+      },
+      {
+        "name": "VHS-Zweckverband Kamen-Bönen",
+        "region": "Unna",
+        "address": "Am Geist 1, 59174 Kamen",
+        "phone": "02307-92420-52",
+        "email": "vhs@stadt-kamen.de"
+      },
+      {
+        "name": "VHS-Zweckverband Meckenheim-Rheinbach-Swisttal-Wachtberg",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Schweigelstr. 21, 53359 Rheinbach",
+        "phone": "02226/921920",
+        "email": "info@vhs-rheinbach.de"
+      },
+      {
+        "name": "VHS-Zweckverband Voreifel",
+        "region": "Rhein-Sieg-Kreis",
+        "address": "Koblenzer Str. 6, 53359 Rheinbach",
+        "phone": "0226-9219-25",
+        "email": "integration@vhs-voreifel.de"
+      },
+      {
+        "name": "Volkshochschule Bergisch Gladbach",
+        "region": "Rheinisch-Bergischer Kreis",
+        "address": "Buchmühlenstr. 12, 51465 Bergisch Gladbach",
+        "phone": "02202-14-2279",
+        "email": "k.zalwert@stadt-gl.de"
+      },
+      {
+        "name": "IB West gGmbH für Bildung und soziale Dienste",
+        "region": "Kreisfreie Stadt",
+        "address": "Herforder Straße 14, 33602 Bielefeld",
+        "phone": "0521-260725-19",
+        "email": "sprachinstitut-bielefeld@ib.de"
+      },
+      {
+        "name": "Volkshochschule Bielefeld",
+        "region": "Kreisfreie Stadt",
+        "address": "Ravensberger Park 1, 33607 Bielefeld",
+        "phone": "0521/516629",
+        "email": "annette.waedlich@bielefeld.de"
+      },
+      {
+        "name": "Volkshochschule Borken",
+        "region": "Borken",
+        "address": "Im Piepershagen 17a, 46325 Borken",
+        "phone": "02861/030238",
+        "email": "vhs@borken.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Hamm",
+        "region": "Kreisfreie Stadt",
+        "address": "Platz der Deutschen Einheit 1, 59065 Hamm",
+        "phone": "02381-175648",
+        "email": "Horst.Streibhardt@stadt.hamm.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Hattingen",
+        "region": "Ennepe-Ruhr-Kreis",
+        "address": "Bredenscheider Str. 19, 45525 Hattingen",
+        "phone": "02324/204-2344",
+        "email": "B.Hloch@hattingen.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Lünen",
+        "region": "Unna",
+        "address": "Cappenberger Str. 34, 44534 Lünen",
+        "phone": "02306/104-2722",
+        "email": "vhs@luenen.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Oberhausen",
+        "region": "Kreisfreie Stadt",
+        "address": "Langemarkstr. 19/21, 46045 Oberhausen",
+        "phone": "0208/825-2895",
+        "email": "traudel.kleinpass@oberhausen.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Oer-Erkenschwick",
+        "region": "Recklinghausen",
+        "address": "Stimbergstr. 169, 45739 Oer-Erkenschwick",
+        "phone": "02368/987111",
+        "email": "vhs@vhs-oe.de"
+      },
+      {
+        "name": "Volkshochschule der Städte Mettmann und Wülfrath",
+        "region": "Mettmann",
+        "address": "Schwarzbachstr. 28, 40822 Mettmann",
+        "phone": "02104/139240",
+        "email": "wauschkuhn@vhs-mettmann.de"
+      },
+      {
+        "name": "Volkshochschule des Kreises Olpe",
+        "region": "Olpe",
+        "address": "Kurfürst-Heinrich-Str. 34, 57462 Olpe /Biggesee",
+        "phone": "02761/923630",
+        "email": "info@vhs-kreis-olpe.de"
+      },
+      {
+        "name": "Volkshochschule Erftstadt",
+        "region": "Rhein-Erft-Kreis",
+        "address": "Carl-Schurz-Str. 23, 50374 Erftstadt",
+        "phone": "02235-409272",
+        "email": "info@vhs-erftstadt.de"
+      },
+      {
+        "name": "Volkshochschule Frechen",
+        "region": "Rhein-Erft-Kreis",
+        "address": "Hauptstr. 110/112, 50226 Frechen",
+        "phone": "02234/501252",
+        "email": "buero@vhs-frechen.de"
+      },
+      {
+        "name": "Volkshochschule Herten",
+        "region": "Recklinghausen",
+        "address": "Resser Weg 1, 45699 Herten",
+        "phone": "02366/303515",
+        "email": "vhs@herten.de"
+      },
+      {
+        "name": "Volkshochschule Höxter-Marienmünster",
+        "region": "Höxter",
+        "address": "Möllingerstr. 9, 37671 Höxter",
+        "phone": "05271/963182",
+        "email": "schwiete@vhs-hoexter.de"
+      },
+      {
+        "name": "Volkshochschule Lübbecker Land",
+        "region": "Minden-Lübbecke",
+        "address": "Wilhelm-Kern-Platz 4, 32339 Espelkamp",
+        "phone": "05772-97710",
+        "email": "steinhauer@vhs-altkreis-luebbecke.de"
+      },
+      {
+        "name": "Volkshochschule Lüdenscheid",
+        "region": "Märkischer Kreis",
+        "address": "Alte Rathausstr. 1, 58511 Lüdenscheid",
+        "phone": "02351/171471",
+        "email": "volkshochschule@luedenscheid.de"
+      },
+      {
+        "name": "Volkshochschule Meerbusch",
+        "region": "Neuss",
+        "address": "Hochstr. 14, 40670 Meerbusch",
+        "phone": "02159/916-504",
+        "email": "volkshochschule@meerbusch.de"
+      },
+      {
+        "name": "Volkshochschule Minden",
+        "region": "Minden-Lübbecke",
+        "address": "Königswall 99, 32423 Minden",
+        "phone": "0571/83766-14",
+        "email": "riemanns@vhs-minden.de"
+      },
+      {
+        "name": "Volkshochschule Mönchengladbach",
+        "region": "Kreisfreie Stadt",
+        "address": "Lüpertzender Str. 85, 41061 Mönchengladbach",
+        "phone": "02161/25-6410",
+        "email": "cleopatra.altanis@moenchengladbach.de"
+      },
+      {
+        "name": "Volkshochschule Neuss",
+        "region": "Neuss",
+        "address": "Hafenstr. 29, 41460 Neuss",
+        "phone": "02131/904103",
+        "email": "info@vhs-neuss.de"
+      },
+      {
+        "name": "Volkshochschule Oelde-Ennigerloh",
+        "region": "Warendorf",
+        "address": "Herrenstr. 7, 59302 Oelde",
+        "phone": "02522/72724",
+        "email": "vhs@oelde.de"
+      },
+      {
+        "name": "Volkshochschule Overath-Rösrath",
+        "region": "Rheinisch-Bergischer Kreis",
+        "address": "Schulstr. 15, 51491 Overath",
+        "phone": "02204- 972317",
+        "email": "sr@vhsor.de"
+      },
+      {
+        "name": "Volkshochschule Remscheid",
+        "region": "Kreisfreie Stadt",
+        "address": "Scharffstraße 4 - 6, 42849 Remscheid",
+        "phone": "02191-16-2786",
+        "email": "volkshochschule@remscheid.de"
+      },
+      {
+        "name": "Volkshochschule Siegen",
+        "region": "Siegen-Wittgenstein",
+        "address": "Markt 25, 57072 Siegen",
+        "phone": "0271/404-3046",
+        "email": "u_berens@siegen.de"
+      },
+      {
+        "name": "Volkshochschule ZV Ochtrup",
+        "region": "Steinfurt",
+        "address": "Winkelstr. 1, 48607 Ochtrup",
+        "phone": "02553/939815",
+        "email": "info@vhs-ochtrup.de"
+      },
+      {
+        "name": "Volkshochschul-Zweckverband Hilden-Haan",
+        "region": "Mettmann",
+        "address": "Gerresheimer Str. 20, 40721 Hilden",
+        "phone": "02103/500537",
+        "email": "fragemann@vhs-hilden-haan.de"
+      },
+      {
+        "name": "Millenium Bildungsverein e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Ramgestraße 6, 46145 Oberhausen",
+        "phone": "0208-6351988",
+        "email": "info@millenium-ev.org"
+      },
+      {
+        "name": "Werkstatt für Bildung und Kultur",
+        "region": "Kreisfreie Stadt",
+        "address": "Servatiiplatz 9, 48143 Münster",
+        "phone": "0251-981141-10",
+        "email": "info@deutschwerkstatt.de"
+      },
+      {
+        "name": "Wirtschaftsakademie Küster gmbH",
+        "region": "Rheinisch-Bergischer Kreis",
+        "address": "De-Gaspari-Str. 5, 51469 Bergisch Gladbach",
+        "phone": "02202-9576252",
+        "email": "pduppach@wa-kuester.com"
+      },
+      {
+        "name": "ZV VHS Arnsberg/Sundern",
+        "region": "Hochsauerlandkreis",
+        "address": "Werler Str. 2a - Möhnepark, 59755 Arnsberg",
+        "phone": "02932-972814",
+        "email": "vhs@arnsberg.de"
+      },
+      {
+        "name": "Bénédict GmbH & Co. KG",
+        "region": "Kreisfreie Stadt",
+        "address": "Ackerstraße 3, 40233 Düsseldorf",
+        "phone": "0211 355940-142",
+        "email": "malgorzata.pramor@benedict-schulen.de"
+      }
+    ]
+  },
+  {
+    "id": "rhineland-palatinate",
+    "nameZh": "莱茵兰-普法尔茨",
+    "nameDe": "Rhineland-Palatinate",
+    "listedCount": 58,
+    "venues": [
+      {
+        "name": "Bénédict-Akademie Koblenz",
+        "region": "Löhrstr. 127, 56068 Koblenz",
+        "address": "026137654",
+        "phone": "",
+        "email": "cburkhardt@benedict-akademie-koblenz.de"
+      },
+      {
+        "name": "Dr. Ridder, Private Berufsfachschule für Sprache, EDV und Fremdsprachenkorrespondenten",
+        "region": "Neubrunnenstr. 8, 55116 Mainz",
+        "address": "06131 25210",
+        "phone": "",
+        "email": "sekretariat@dr-ridder.de"
+      },
+      {
+        "name": "Euro Schulen für Rheinland-Pfalz GmbH (Euroschulen Trier)",
+        "region": "Nagelstraße 10, 54290 Trier",
+        "address": "0651-97561-13",
+        "phone": "",
+        "email": "Trier@eso.de"
+      },
+      {
+        "name": "Akademisches Bildungs-Center e.V.",
+        "region": "Rabanusstraße 5, 55118 Mainz",
+        "address": "06131-720276",
+        "phone": "",
+        "email": "m.cagrici@abc-mainz.de"
+      },
+      {
+        "name": "Euro-Schulen Mainz",
+        "region": "Wallstr. 11, 55122 Mainz",
+        "address": "06131-58844-0",
+        "phone": "",
+        "email": "info@es.mainz.eso.de"
+      },
+      {
+        "name": "IBLA Germany GmbH",
+        "region": "Prinz-Carl-Anlage 3, 67547 Worms",
+        "address": "06241/304149",
+        "phone": "",
+        "email": "ibla-germany@web.de"
+      },
+      {
+        "name": "Institut für Bildung und Beruf",
+        "region": "Adolf-Kolping-Str. 3, 57627 Hachenburg",
+        "address": "02662-9428146",
+        "phone": "",
+        "email": "ibbhachenburg@t-online.de"
+      },
+      {
+        "name": "Internationaler Bund (IB)",
+        "region": "Glacisstr. 9, 76726 Germersheim",
+        "address": "07274702535",
+        "phone": "",
+        "email": "bz-germersheim@internationaler-bund.de"
+      },
+      {
+        "name": "ISL Sprachschule Koblenz Annette Friedl & David O'Callaghan",
+        "region": "Rizzastr. 35, 56068 Koblenz",
+        "address": "0261-98823440",
+        "phone": "",
+        "email": "koblenz@isl-sprachschule.de"
+      },
+      {
+        "name": "Kölner Wirtschaftsfachschule GmbH",
+        "region": "Kurfürst-Schönborn-Str. 55, 56070 Koblenz",
+        "address": "",
+        "phone": "",
+        "email": "singerhoff@wifa.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Ahrweiler",
+        "region": "Wilhelmstraße 23, 53474 Bad Neuenahr-Ahrweiler",
+        "address": "02641-912339-0",
+        "phone": "",
+        "email": "info@kvhs-ahrweiler.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Altenkirchen",
+        "region": "Rathausstr. 12, 57610 Altenkirchen",
+        "address": "02681- 812211",
+        "phone": "",
+        "email": "kvhs@kreis-ak.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Alzey-Worms",
+        "region": "Theodor-Heuss-Ring 2, 55232 Alzey",
+        "address": "06731-408 6740",
+        "phone": "",
+        "email": "kvhs@alzey-worms.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Bad Dürkheim",
+        "region": "Philipp-Fauth-Str. 11, 67098 Bad Dürkheim",
+        "address": "06322/961-2402",
+        "phone": "",
+        "email": "kvhs@kreis-bad-duerkheim.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Birkenfeld",
+        "region": "Schneewiesenstr. 25, 55765 Birkenfeld",
+        "address": "0678-15105",
+        "phone": "",
+        "email": "vhs@landkreis-birkenfeld.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Bitburg-Prüm",
+        "region": "Trierer Str. 1, 54634 Bitburg",
+        "address": "(0 65 61) 15 13 80",
+        "phone": "",
+        "email": "kvhs@bitburg-pruem.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Cochem-Zell",
+        "region": "Ravenestr. 17, 56812 Cochem",
+        "address": "02671-61465",
+        "phone": "",
+        "email": "kvhs@cochem-zell.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Donnersbergkreis",
+        "region": "Uhlandstr. 2, 67292 Kirchheimbolanden",
+        "address": "06352-710-108",
+        "phone": "",
+        "email": "kvhs@donnersberg.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Germersheim",
+        "region": "Ritter von Schmauß-Str./Ecke Paradeplatz, 76726 Germersheim",
+        "address": "07274 - 53 334",
+        "phone": "",
+        "email": "vhs@kreis-germersheim.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Kaiserslautern",
+        "region": "Lauterstr. 8, 67657 Kaiserslautern",
+        "address": "0631-7105-395",
+        "phone": "",
+        "email": "carola.wuertz@kaiserslautern-kreis.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Kusel",
+        "region": "Lehnstr. 16, 66869 Kusel",
+        "address": "06381-917530-10",
+        "phone": "",
+        "email": "kvhs@kv-kus.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Mainz-Bingen e.V.",
+        "region": "Georg-Rückert-Str. 11, 55218 Ingelheim am Rhein",
+        "address": "06132-/7877100/-7102",
+        "phone": "",
+        "email": "info@kvhs-mainz-bingen.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Neuwied",
+        "region": "Beverwijker Ring 5, 56564 Neuwied",
+        "address": "02631- 347813",
+        "phone": "",
+        "email": "info@kvhs-neuwied.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Südliche Weinstr.",
+        "region": "An der Kreuzmühle 2, 76829 Landau",
+        "address": "06341-940188",
+        "phone": "",
+        "email": "vhs@suedliche-weinstrasse.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Südwestpfalz e.V.",
+        "region": "Unterer Sommerwaldweg 40/42, 66953 Pirmasens",
+        "address": "06331-809336",
+        "phone": "",
+        "email": "info@kvhs-swp.de, f.rossard@lksuedwestpflaz.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Westerwald e.V.",
+        "region": "Peter-Altmeier-Platz 1, 56410 Montabaur",
+        "address": "02602-124420",
+        "phone": "",
+        "email": "info@vhs-ww.de"
+      },
+      {
+        "name": "KUNZ Institut für Betriebswirtschaftliche Aus- und Weiterbildung",
+        "region": "Am Schlittweg 8, 55593 Rüdesheim (Nahe)",
+        "address": "0671-40733",
+        "phone": "",
+        "email": "info@kunz-institut.de"
+      },
+      {
+        "name": "ProfeS Gesellschaft für Bildung & Kommunikation mbH",
+        "region": "Max-von-Laue-Str. 3, 76829 Landau in der Pfalz",
+        "address": "06341-1414433",
+        "phone": "",
+        "email": "info@profes-gmbh.de"
+      },
+      {
+        "name": "Sprachenschule Gamp und Anheuser",
+        "region": "Rüdesheimer Str. 34, 55545 Bad Kreuznach",
+        "address": "067143199",
+        "phone": "",
+        "email": "kanheuser@web.de"
+      },
+      {
+        "name": "TSI Training Sprache Integration",
+        "region": "Schloßstr. 48, 56068 Koblenz",
+        "address": "0261-12714",
+        "phone": "",
+        "email": "info@tsi-koblenz.de"
+      },
+      {
+        "name": "Volkshochschule Andernach",
+        "region": "Am Stadtgraben 29, 56626 Andernach",
+        "address": "02632-922276",
+        "phone": "",
+        "email": "vhs@andernach.de"
+      },
+      {
+        "name": "Volkshochschule Bad Bergzabern",
+        "region": "Königstr. 61, 76887 Bad Bergzabern",
+        "address": "06343-9253038",
+        "phone": "",
+        "email": "integration@vhs-bergzabern.de"
+      },
+      {
+        "name": "Sprachenschule Gamp und Léus",
+        "region": "Hochstraße 11, 901402 Bad Kreuznach",
+        "address": "0178 5343532",
+        "phone": "",
+        "email": "SprachenschuleGampundLeus@web.de"
+      },
+      {
+        "name": "Volkshochschule Bad Kreuznach",
+        "region": "Kornmarkt 5, 55543 Bad Kreuznach",
+        "address": "0671/800766",
+        "phone": "",
+        "email": "vhs@bad-kreuznach.de"
+      },
+      {
+        "name": "Volkshochschule Bingen e.V",
+        "region": "Gaustr. 20, 55411 Bingen am Rhein",
+        "address": "06721-991103",
+        "phone": "",
+        "email": "service@vhs-bingen.de"
+      },
+      {
+        "name": "Volkshochschule Bitburg",
+        "region": "Rathausplatz 3/4, 54634 Bitburg",
+        "address": "06561-6001-241",
+        "phone": "",
+        "email": "vhs@bitburg.de"
+      },
+      {
+        "name": "Volkshochschule Boppard",
+        "region": "Oberstraße 141, 56154 Boppard",
+        "address": "06742-898866",
+        "phone": "",
+        "email": "info@vhs-boppard.de"
+      },
+      {
+        "name": "Volkshochschule Daun",
+        "region": "Leopoldstr. 29, 54550 Daun",
+        "address": "(0 65 92) 93 92 15",
+        "phone": "",
+        "email": "volkshochschule@stadt-daun.de"
+      },
+      {
+        "name": "Volkshochschule der Stadt Worms",
+        "region": "Willy-Brandt-Ring 11, 67547 Worms",
+        "address": "06241/8534256",
+        "phone": "",
+        "email": "vhs@worms.de"
+      },
+      {
+        "name": "Volkshochschule Frankenthal e. V.",
+        "region": "Stephan-Cosacchi-Platz 1, 67227 Frankenthal (Pfalz)",
+        "address": "06233-349203",
+        "phone": "",
+        "email": "info@vhs-ft.de"
+      },
+      {
+        "name": "Volkshochschule Gerolstein",
+        "region": "Rathaus, Kyllweg 1,, 54568 Gerolstein",
+        "address": "0659-131166",
+        "phone": "",
+        "email": "heike.bowi@gerolstein.de, vhs@gerolstein.de"
+      },
+      {
+        "name": "Volkshochschule Hunsrück",
+        "region": "Auf der Mauer 8, 55481 Kirchberg (Hunsrück)",
+        "address": "06763-910-155",
+        "phone": "",
+        "email": "vhs@kirchberg-hunsrueck.de, info@kirchberg-hunsrueck.de"
+      },
+      {
+        "name": "Volkshochschule Kaiserslautern e.V.",
+        "region": "Kanalstr. 3, 67655 Kaiserslautern",
+        "address": "0631-3625823",
+        "phone": "",
+        "email": "info@vhs-kaiserslautern.de"
+      },
+      {
+        "name": "Volkshochschule Kandel e.V.",
+        "region": "Hauptstr. 61, 76870 Kandel",
+        "address": "(0 72 75) 9 52 73",
+        "phone": "",
+        "email": "vhs.kandel@web.de"
+      },
+      {
+        "name": "Volkshochschule Landau",
+        "region": "Maximilianstr. 7, 76829 Landau in der Pfalz",
+        "address": "06341-134992",
+        "phone": "",
+        "email": "sigrid.gensheimer@landau.de"
+      },
+      {
+        "name": "Volkshochschule Ludwigshafen",
+        "region": "Bürgerhof , 67059 Ludwigshafen am Rhein",
+        "address": "0621-504-2587",
+        "phone": "",
+        "email": "Siegbert.Aichele@ludwigshafen.de"
+      },
+      {
+        "name": "Volkshochschule Mainz",
+        "region": "Karmeliterplatz 1, 55116 Mainz",
+        "address": "06131/2625-150",
+        "phone": "",
+        "email": "vhs@vhs-mainz.de"
+      },
+      {
+        "name": "Volkshochschule Montabaur",
+        "region": "Konrad-Adenauer-Platz 9, 56410 Montabaur",
+        "address": "02602-126105",
+        "phone": "",
+        "email": "uprobst@montabaur.de"
+      },
+      {
+        "name": "Volkshochschule Neustadt an der Weinstr.",
+        "region": "Lindenstraße 15, 67433 Neustadt an der Weinstr.",
+        "address": "06321-855-1877",
+        "phone": "",
+        "email": "nicolette.schuster@neustadt.eu"
+      },
+      {
+        "name": "Volkshochschule Neuwied \"Die Brücke\"",
+        "region": "Heddesdorfer Str. 33, 56564 Neuwied",
+        "address": "02631-8025510",
+        "phone": "",
+        "email": "anmeldung@vhs-neuwied.de"
+      },
+      {
+        "name": "Volkshochschule Pirmasens",
+        "region": "Hans-Sachs-Str. 2, 66955 Pirmasens",
+        "address": "06331-213687",
+        "phone": "",
+        "email": "volkshochschule@pirmasens.de"
+      },
+      {
+        "name": "Volkshochschule Prüm",
+        "region": "Rathaus, Tiergartenstr. 54, 54595 Prüm",
+        "address": "0 65 51- 943119",
+        "phone": "",
+        "email": "vhs@vg-pruem.de"
+      },
+      {
+        "name": "Volkshochschule Rhein-Pfalz-Kreis",
+        "region": "Europaplatz 5, 67063 Ludwigshafen am Rhein",
+        "address": "0621-5909-246",
+        "phone": "",
+        "email": "kvhs-geschaeftsstelle@vhs-rpk.de"
+      },
+      {
+        "name": "Volkshochschule Speyer",
+        "region": "Bahnhofstr. 54, 67346 Speyer",
+        "address": "06232-106-203",
+        "phone": "",
+        "email": "vhs@stadt-speyer.de"
+      },
+      {
+        "name": "Volkshochschule Traben-Trarbach",
+        "region": "Am Markt 3, 56841 Traben-Trarbach",
+        "address": "06541-708-28",
+        "phone": "",
+        "email": "team@vhs-traben-trarbach.de"
+      },
+      {
+        "name": "Volkshochschule Trier",
+        "region": "Domfreihof 1b, 54290 Trier",
+        "address": "0651-718-1437",
+        "phone": "",
+        "email": " manuela.zeilinger@trier.de"
+      },
+      {
+        "name": "Volkshochschule Wittlich Stadt und Land e.V.",
+        "region": "Kurfürstenstr. 1, 54516 Wittlich",
+        "address": "06571-10739",
+        "phone": "",
+        "email": "wfeltes@vg-wittlich-land.de"
+      },
+      {
+        "name": "Volkshochschule Zweibrücken",
+        "region": "Johann-Schwebel-Str. 1, 66482 Zweibrücken",
+        "address": "06332-209747",
+        "phone": "",
+        "email": "info@vhs-zweibruecken.de"
+      }
+    ]
+  },
+  {
+    "id": "schleswig-holstein",
+    "nameZh": "石勒苏益格-荷尔斯泰因",
+    "nameDe": "Schleswig-Holstein",
+    "listedCount": 1,
+    "venues": [
+      {
+        "name": "Landesverband der Volkshochschulen Schleswig-Holsteins e.V.",
+        "region": "Kreisfreie Stadt",
+        "address": "Holstenbrücke 7, 24103 Kiel",
+        "phone": "0431-97984-13",
+        "email": "pz@vhs-sh.de"
+      }
+    ]
+  },
+  {
+    "id": "saarland",
+    "nameZh": "萨尔州",
+    "nameDe": "Saarland",
+    "listedCount": 13,
+    "venues": [
+      {
+        "name": "VHS Merzig-Wadern e. V.",
+        "region": "Merzig-Wadern",
+        "address": "Gutenbergstr. 14, 66663 Merzig",
+        "phone": "06861-82910-0",
+        "email": "info@vhs-merzig-wadern.de"
+      },
+      {
+        "name": "VHS Neunkirchen",
+        "region": "Neunkirchen/Saar",
+        "address": "Marienstr. 2, 66538 Neunkirchen",
+        "phone": "06821-2900611",
+        "email": "bierbrauer@nk-kultur.de"
+      },
+      {
+        "name": "VHS Illingen/Saar e. V.",
+        "region": "Neunkirchen/Saar",
+        "address": "Kirchenstr. 12, 66557 Illingen",
+        "phone": "06825-4060290",
+        "email": ""
+      },
+      {
+        "name": "VHS der Stadt Saarlouis",
+        "region": "Saarlouis",
+        "address": "Lothringer Str. 13, 66740 Saarlouis",
+        "phone": "06831-40220",
+        "email": "jakobs@vhs-saarlouis.de"
+      },
+      {
+        "name": "VHS Dillingen e. V.",
+        "region": "Saarlouis",
+        "address": "De-Lenoncourt-Str. 5, 66763 Dillingen",
+        "phone": "06831-7506",
+        "email": "info@vhs-dillingen.de"
+      },
+      {
+        "name": "VHS St. Ingbert",
+        "region": "Saar-Pfalz-Kreis",
+        "address": "Kulturhaus, Annastr. 30, 66386 St. Ingbert",
+        "phone": "06894-38795-12",
+        "email": "vhsigb@t-online.de"
+      },
+      {
+        "name": "VHS der Stadt Homburg e.V.",
+        "region": "Saar-Pfalz-Kreis",
+        "address": "Am Forum 5, 66424 Homburg",
+        "phone": "06841-101106",
+        "email": "vhs@homburg.de"
+      },
+      {
+        "name": "KVHS Saarpfalz-Kreis",
+        "region": "Saar-Pfalz-Kreis",
+        "address": "Am Schloß 11, 66440 Blieskastel",
+        "phone": "06842-924310",
+        "email": "kvhs@saarpfalz-kreis.de"
+      },
+      {
+        "name": "KVHS St. Wendel",
+        "region": "St. Wendel",
+        "address": "Werschweilerstr. 14, 66606 St. Wendel",
+        "phone": "06851-801-4010",
+        "email": "kvhs@lkwnd.de"
+      },
+      {
+        "name": "VHS St. Wendeler e.V.",
+        "region": "St. Wendel",
+        "address": "Schloßstr. 7, 66606 St. Wendel",
+        "phone": "06851-809132",
+        "email": ""
+      },
+      {
+        "name": "VHS Regionalverband Saarbrücken",
+        "region": "Regionalverband Saarbrücken",
+        "address": "Am Schlossplatz 2, 66119 Saarbrücken",
+        "phone": "0681-5064350",
+        "email": "vhs-integration@rvsbr.de"
+      },
+      {
+        "name": "VHS der Stadt Sulzbach/Saar/Salzherrenhaus",
+        "region": "Regionalverband Saarbrücken",
+        "address": "Auf der Schmelz , 66280 Sulzbach",
+        "phone": "06897-9248310",
+        "email": ""
+      },
+      {
+        "name": "VHS Völklingen",
+        "region": "Regionalverband Saarbrücken",
+        "address": "Bismarckstr. 1, 66333 Völklingen",
+        "phone": "06898-132590",
+        "email": "k.schaeffner@vhs-voelklingen.de"
+      }
+    ]
+  },
+  {
+    "id": "saxony",
+    "nameZh": "萨克森",
+    "nameDe": "Saxony",
+    "listedCount": 33,
+    "venues": [
+      {
+        "name": "Bénédict School Zwickau",
+        "region": "Alte Reichenbacher Str. 2, 08056 Zwickau",
+        "address": "0375-27766-0",
+        "phone": "",
+        "email": "benedict@fuu-sachsen.de"
+      },
+      {
+        "name": "Die Sprachwerkstatt GmbH",
+        "region": "Großenhainer Str. 99, 01127 Dresden",
+        "address": "0351 / 8975940",
+        "phone": "",
+        "email": "dresden@die-sprachwerkstatt.de"
+      },
+      {
+        "name": "ESO Education Group",
+        "region": "Wasserturmstraße 1, 06803 Bitterfeld-Wolfen",
+        "address": "03493 / 73600",
+        "phone": "",
+        "email": "info@es.wolfen.eso.de"
+      },
+      {
+        "name": "Euro-Schulen Dresden",
+        "region": "Wiener Platz 6, 01069 Dresden",
+        "address": "0351 / 4763680",
+        "phone": "",
+        "email": "info@es.dresden.eso.de"
+      },
+      {
+        "name": "Euro-Schulen GmbH, Euro-Schulen Görlitz-Zittau",
+        "region": "Straßburg-Passage , 02826 Görlitz",
+        "address": "03581-76460",
+        "phone": "",
+        "email": "l.vater@eso-goerlitz.de"
+      },
+      {
+        "name": "Euro-Schulen Leipzig",
+        "region": "Rosa-Luxemburg-Str. 23, 04103 Leipzig",
+        "address": "0341/ 962 99 37",
+        "phone": "",
+        "email": "info@es.leipzig.eso.de"
+      },
+      {
+        "name": "Euro-Schulen Riesa/Meißen",
+        "region": "Paul-Greifzu-Str. 30, 01591 Riesa",
+        "address": "03525 / 501311",
+        "phone": "",
+        "email": "info@es.riesa.eso.de"
+      },
+      {
+        "name": "Euro-Schulen West-Sachsen GmbH",
+        "region": "Am alten Bad 1, 09111 Chemnitz",
+        "address": "0371-3356230",
+        "phone": "",
+        "email": "chemnitz@eso.de"
+      },
+      {
+        "name": "Euro-Schulen West-Sachsen GmbH Zwickau",
+        "region": "Max-Pechstein-Sttraße 29, 08056 Zwickau",
+        "address": "0375-2713430",
+        "phone": "",
+        "email": "info@es.zwickau.eso.de"
+      },
+      {
+        "name": "inlingua Sprachcenter Chemnitz",
+        "region": "Barbarossastr. 2, 09112 Chemnitz",
+        "address": "0371 / 517000",
+        "phone": "",
+        "email": "chemnitz@inlingua.de"
+      },
+      {
+        "name": "inlingua Sprachschule Dresden GmbH & Co.",
+        "region": "Karcherallee 41, 01277 Dresden",
+        "address": "0351 / 494460",
+        "phone": "",
+        "email": "german@inlingua-dresden.de"
+      },
+      {
+        "name": "Kreisvolkshochschule Bauzen",
+        "region": "Postplatz 3, 02625 Bautzen",
+        "address": "03591 27229-13",
+        "phone": "",
+        "email": "andrea.siebert@kvhsbautzen.de"
+      },
+      {
+        "name": "language coach institute Leipzig",
+        "region": "Emilienstr. 17, 04107 Leipzig",
+        "address": "0341/3085506",
+        "phone": "",
+        "email": "thiessen@languagecoach.de"
+      },
+      {
+        "name": "Learn and Speak Leipzig Wolpert Schulungszentrum Sprachschule Leipzig GmbH",
+        "region": "Gutenbergplatz 1a-e, 04103 Leipzig",
+        "address": "0341 222 88 77 0",
+        "phone": "",
+        "email": "info@las-leipzig.de"
+      },
+      {
+        "name": "Leipziger Gesellschaft für Bildung und Arbeit",
+        "region": "Anton-Zickmantel-Str. 41, 04249 Leipzig",
+        "address": "0341/ 4273770",
+        "phone": "",
+        "email": "info@lehmbaugruppe.de"
+      },
+      {
+        "name": "MIQR GmbH Chemnitz",
+        "region": "Barbarossastr. 2, 09112 Chemnitz",
+        "address": "0371-404665-20",
+        "phone": "",
+        "email": "deutschkurse-chemnitz@miqr.de"
+      },
+      {
+        "name": "Sächsischer Volkshochschulverband e.V.",
+        "region": "Bergstraße 61, 09113 Chemnitz",
+        "address": "0371-35427-54",
+        "phone": "",
+        "email": "info@vhs-sachsen.de"
+      },
+      {
+        "name": "VHS Annaberg",
+        "region": "Bärensteiner Str. 2, 09456 Annaberg-Buchholz",
+        "address": "03733-426224",
+        "phone": "",
+        "email": "info@vhs-annaberg.de"
+      },
+      {
+        "name": "VHS Chemnitz",
+        "region": "Moritzstr. 20, 09111 Chemnitz",
+        "address": "0371/ 488-4338",
+        "phone": "",
+        "email": "deutsch@vhs-chemnitz.de&quot;"
+      },
+      {
+        "name": "VHS Dresden e. V.",
+        "region": "Schilfweg 3, 01237 Dresden",
+        "address": "0351-2544037",
+        "phone": "",
+        "email": "jana.moebius@vhs-dresden.de"
+      },
+      {
+        "name": "VHS Erzgebirgskreis",
+        "region": "Rudolf-Breitscheid-Str. 27, 08280 Aue",
+        "address": "03771-597210 oder 11",
+        "phone": "",
+        "email": "susanne.schmidt@kreis-erz.de"
+      },
+      {
+        "name": "VHS Görlitz e. V.",
+        "region": "Langenstr. 23, 02826 Görlitz",
+        "address": "03581-4209828",
+        "phone": "",
+        "email": "sprachen@vhs-goerlitz.de"
+      },
+      {
+        "name": "VHS Landkreis Leipzig",
+        "region": "Jahnstr. 24a, 04552 Borna",
+        "address": "0343 / 374463328",
+        "phone": "",
+        "email": "sabine.garbe@vhs-lkl.de"
+      },
+      {
+        "name": "VHS Muldental",
+        "region": "Lüptitzer Str. 2, 04808 Wurzen",
+        "address": "0342 / 5/90470",
+        "phone": "",
+        "email": "wurzen@volkshochschule-muldental.de"
+      },
+      {
+        "name": "VHS Nordsachsen",
+        "region": "Puschkinstraße 3, 04860 Torgau",
+        "address": "03423-700440",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "VHS Sächsische Schweiz-Osterzgebirge e.V.",
+        "region": "Geschwister-Scholl-Str. 2, 01796 Pirna",
+        "address": "03501-710990",
+        "phone": "",
+        "email": "info@vhs-ssoe.de"
+      },
+      {
+        "name": "VHS Stadt Leipzig",
+        "region": "Löhrstr. 3/7, 04105 Leipzig",
+        "address": "0341/123-6000",
+        "phone": "",
+        "email": "vhs-service@leipzig.de"
+      },
+      {
+        "name": "VHS-Kreis Bautzen",
+        "region": "Dr.-Peter-Jordan-Str. 21, 02625 Bautzen",
+        "address": "03591/ 272290",
+        "phone": "",
+        "email": "info@kvhsbautzen.de"
+      },
+      {
+        "name": "Volkshochschule desVogtlandkreises",
+        "region": "Am Feldschlößchen 14, 08209 Auerbach /Vogtl.",
+        "address": "037421-23770",
+        "phone": "",
+        "email": "service@vhs-vogtlandkreis.de"
+      },
+      {
+        "name": "Volkshochschule Dreiländereck",
+        "region": "Jahnstr. 50, 02943 Weißwasser /O.L.",
+        "address": "03576-2783-0",
+        "phone": "",
+        "email": "info@vhs-dle.de"
+      },
+      {
+        "name": "Volkshochschule Plauen",
+        "region": "Stresemannstr. 92, 08527 Plauen",
+        "address": "03741-22 44 25",
+        "phone": "",
+        "email": "boh@vhs-plauen.de"
+      },
+      {
+        "name": "Zoo, Kultur und Bildung gGmbH - Volkshochschule Hoyerswerda",
+        "region": "Lausitzer Platz 4, 02977 Hoyerswerda",
+        "address": "03571-6079943",
+        "phone": "",
+        "email": "U.Grun@vhs-hy.de"
+      },
+      {
+        "name": "zu Hause e.V.",
+        "region": "Hohe Straße 9/13, 04107 Leipzig",
+        "address": "0341 / 52 91 72 48",
+        "phone": "",
+        "email": "info@zuhause-ev.de"
+      }
+    ]
+  },
+  {
+    "id": "saxony-anhalt",
+    "nameZh": "萨克森-安哈尔特",
+    "nameDe": "Saxony-Anhalt",
+    "listedCount": 27,
+    "venues": [
+      {
+        "name": "VHS Altmarkkreis Salzwedel",
+        "region": "Altmarkkreis Salzwedel",
+        "address": "Karl-Marx-Str. 15, 29410 Salzwedel",
+        "phone": "03901-422031",
+        "email": "salzwedel@vhs-salzwedel.de"
+      },
+      {
+        "name": "VHS-Kreis Anhalt-Bitterfeld",
+        "region": "Anhalt-Bitterfeld",
+        "address": "Lindenstr. 12 a, 06749 Bitterfeld",
+        "phone": "03496-12033",
+        "email": "service@kvhs-abi.de"
+      },
+      {
+        "name": "KVHS Börde",
+        "region": "Börde",
+        "address": "Warmsdorfer Str. 20, 39340 Haldensleben",
+        "phone": "03904-42271",
+        "email": "kvhs@boerdekreis.de"
+      },
+      {
+        "name": "Euro-Schulen Sachsen-Anhalt GmbH",
+        "region": "Börde",
+        "address": "Hafenstr. 6, 39340 Haldensleben",
+        "phone": "039047258117",
+        "email": "info@es.haldensleben.eso.de"
+      },
+      {
+        "name": "VHS Burgenlandkreis",
+        "region": "Burgenland",
+        "address": "Domherrenstr. 1, 06712 Zeitz",
+        "phone": "03441-212465",
+        "email": "info@vhs-burgenlandkreis.de"
+      },
+      {
+        "name": "VHS Dessau-Roßlau",
+        "region": "Dessau-Roßlau",
+        "address": "Erdmannsdorffstr. 3, 06844 Dessau-Roßlau",
+        "phone": "0340-24005542",
+        "email": "info@vhs.dessau-rosslau.de"
+      },
+      {
+        "name": "inlingua Sprachschule Dessau OHG",
+        "region": "Dessau-Roßlau",
+        "address": "Franzstr. 85, 06842 Dessau-Roßlau",
+        "phone": "0340-260260",
+        "email": "info@inlingua-dessau.de"
+      },
+      {
+        "name": "KVHS Harz GmbH",
+        "region": "Harz",
+        "address": "Heiligegeiststraße 8, 06484 Quedlinburg",
+        "phone": "03946-524039",
+        "email": "info@kvhs-harz.de"
+      },
+      {
+        "name": "AFU Privates Bildungsinstitut GmbH",
+        "region": "Harz",
+        "address": "Rudolf-Diesel-Str. 14, 38820 Halberstadt",
+        "phone": "039416789507",
+        "email": "info@afu-gmbh.de"
+      },
+      {
+        "name": "KVHS Jerichower Land",
+        "region": "Jerichower Land",
+        "address": "Magdeburger Str. 24-26, 39288 Burg",
+        "phone": "03921-9494310",
+        "email": "kvhs@lkjl.de"
+      },
+      {
+        "name": "VHS Adolf Reichwein in Halle (Saale)",
+        "region": "Kreisfreie Stadt",
+        "address": "Oleariusstraße 7, 06128 Halle (Saale)",
+        "phone": "0345 221-3389",
+        "email": "info@vhs-halle.de"
+      },
+      {
+        "name": "AEB GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Thüringer Str. 30, 06112 Halle (Saale)",
+        "phone": "0345-2900452",
+        "email": "buero@aeb-sachse.com"
+      },
+      {
+        "name": "Euro-Schulen Halle",
+        "region": "Kreisfreie Stadt",
+        "address": "Philipp-Müller-Straße 57, 06110 Halle (Saale)",
+        "phone": "0345-61406-0",
+        "email": "info@es.halle.eso.de"
+      },
+      {
+        "name": "Wolpert Schulungszentrum Sprachschule Halle GmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Marktplatz 7, 06108 Halle (Saale)",
+        "phone": "0340-260260",
+        "email": ""
+      },
+      {
+        "name": "Städtische VHS Magdeburg",
+        "region": "Kreisfreie Stadt",
+        "address": "Leibnizstr. 23, 39104 Magdeburg",
+        "phone": "0391-53547715",
+        "email": "info@vhs.magdeburg.de"
+      },
+      {
+        "name": "ARA Sprachschule",
+        "region": "Kreisfreie Stadt",
+        "address": "Leiterstr. 6, 39104 Magdeburg",
+        "phone": "0391/4002845",
+        "email": "mail@ara-sprachschule.de"
+      },
+      {
+        "name": "Europäisches Bildungswerk für Beruf und Gesellschaft gGmbH",
+        "region": "Kreisfreie Stadt",
+        "address": "Maxim-Gorki-Str. 14, 39108 Magdeburg",
+        "phone": "0391-5419829",
+        "email": "sprachen-magdeburg@ebg.de"
+      },
+      {
+        "name": "KVHS Mansfeld-Südharz e. V.",
+        "region": "Mansfeld-Südharz",
+        "address": "Karl-Liebknecht-Str. 31, 06526 Sangerhausen",
+        "phone": "03464-572407",
+        "email": "service@vhs-sgh.de"
+      },
+      {
+        "name": "Sprachschule 2000 GmbH",
+        "region": "Mansfeld-Südharz",
+        "address": "Markt 57, 06295 Lutherstadt Eisleben",
+        "phone": "03475-250353",
+        "email": "info@sprachschule2000.de"
+      },
+      {
+        "name": "KVHS Saalekreis",
+        "region": "Saalekreis",
+        "address": "Am Saalehang 1, 06217 Merseburg",
+        "phone": "03461-2590880",
+        "email": "kvhs@saalekreis.de"
+      },
+      {
+        "name": "BVU GmbH",
+        "region": "Saalekreis",
+        "address": "Geusaer Straße 81 g, 06217 Merseburg",
+        "phone": "03461-8215-0",
+        "email": "merseburg@bvu-gmbh.de"
+      },
+      {
+        "name": "IEB Schulungsgesellschaft mbH",
+        "region": "Saalekreis",
+        "address": "Birkenweg 6, 06268 Querfurt",
+        "phone": "03461/289673",
+        "email": "ieb-querfurt@das-ieb.de"
+      },
+      {
+        "name": "KVHS Salzlandkreis",
+        "region": "Salzlandkreis",
+        "address": "Vor dem Nienburger Tor 13a, 06406 Bernburg",
+        "phone": "03471-352073",
+        "email": "kvhs@kreis-slk.de"
+      },
+      {
+        "name": "Staßfurter URANIA e.V.",
+        "region": "Salzlandkreis",
+        "address": "Prinzenberg 18, 39418 Staßfurt",
+        "phone": "03925-624295",
+        "email": "info@stassfurter-urania.de"
+      },
+      {
+        "name": "VHS-Kreis Stendal",
+        "region": "Stendal",
+        "address": "Hospitalstraße 1 - 2, 39576 Stendal",
+        "phone": "03931-608080",
+        "email": "kvhs@landkreis-stendal.de"
+      },
+      {
+        "name": "Städtische VHS Stendal",
+        "region": "Stendal",
+        "address": "Hallstr. 35, 39576 Stendal",
+        "phone": "03931-64880",
+        "email": "vhs_stendal@t-online.de"
+      },
+      {
+        "name": "KVHS Wittenberg",
+        "region": "Wittenberg",
+        "address": "Falkstraße 83, 06886 Lutherstadt Wittenberg",
+        "phone": "03491-41810",
+        "email": "kvhs@bzl-wb.de"
+      }
+    ]
+  },
+  {
+    "id": "thuringia",
+    "nameZh": "图林根",
+    "nameDe": "Thuringia",
+    "listedCount": 13,
+    "venues": [
+      {
+        "name": "KVHS Hildburghausen",
+        "region": "Hildburghausen",
+        "address": "Obere Marktstr. 44, 98646 Hildburghausen",
+        "phone": "03685-709285",
+        "email": "vhs.hildburghausen@t-online.de"
+      },
+      {
+        "name": "KVHS Weimarer Land",
+        "region": "Weimarer Land",
+        "address": "Ackerwand 13/15, 99510 Apolda",
+        "phone": "03644-554841",
+        "email": "olga.vitzthum@kvhs-weimarerland.de"
+      },
+      {
+        "name": "Sprache und Bildung GmbH Geschäftsstelle Eisenach",
+        "region": "Kreisfreie Stadt",
+        "address": "Bahnhofstr. 27, 99817 Eisenach",
+        "phone": "03691/785337",
+        "email": "eisenach@sprache-und-bildung.de"
+      },
+      {
+        "name": "Sprache und Bildung GmbH Geschäftsstelle Mühlhausen",
+        "region": "Unstrut-Hainich-Kreis",
+        "address": "Alter Blobach 49, 99974 Mühlhausen /Thüringen",
+        "phone": "03601/449117",
+        "email": "muehlhausen@sprache-und-bildung.de"
+      },
+      {
+        "name": "Thüringer Volkshochschulverband e.V.",
+        "region": "Saalbahnhofstr. 27, 07743 Jena",
+        "address": "03641/5342310",
+        "phone": "",
+        "email": "landesverband@vhs-th.de"
+      },
+      {
+        "name": "VHS Altenburger Land",
+        "region": "Altenburger Land",
+        "address": "Hospitalplatz 6, 04600 Altenburg",
+        "phone": "03447-507928",
+        "email": "vhs-altenburg@altenburgerland.de"
+      },
+      {
+        "name": "VHS des Landkreises Schmalkalden-Meiningen",
+        "region": "Schmalkalden-Meiningen",
+        "address": "Klostergasse 1, 98617 Meiningen",
+        "phone": "03693-50180",
+        "email": "anette.luempert@vhs-th.de"
+      },
+      {
+        "name": "VHS des Landkreises Sonneberg",
+        "region": "Sonneberg",
+        "address": "Coburger Str. 32a, 96515 Sonneberg",
+        "phone": "03675-754223",
+        "email": "jutta.arsenova@vhs-sonneberg.de"
+      },
+      {
+        "name": "VHS Eisenach",
+        "region": "Kreisfreie Stadt",
+        "address": "Schmelzerstr. 19, 99817 Eisenach",
+        "phone": "03691-29320",
+        "email": "vhs@eisenach.de"
+      },
+      {
+        "name": "VHS Unstrut-Hainich-Kreis",
+        "region": "Unstrut-Hainich-Kreis",
+        "address": "Friedrich-Naumann-Str. 26, 99974 Mühlhausen /Thüringen",
+        "phone": "03601-812691",
+        "email": "info@vhs-uh.de"
+      },
+      {
+        "name": "VHS-Kreis Nordhausen",
+        "region": "Nordhausen",
+        "address": "Grimmelallee 60, 99734 Nordhausen",
+        "phone": "03631-6091-27",
+        "email": "beate.walzel@vhs-nordhausen.de"
+      },
+      {
+        "name": "Mitteldeutsches Institut für Qualif. Und ber. Reha. MIQR",
+        "region": "Stadtkreis",
+        "address": "Heinrichstraße 89, 99092 Erfurt",
+        "phone": "0361-511503-340",
+        "email": "hatem.ayadi@miqr.de"
+      },
+      {
+        "name": "Volkshochschule Erfurt",
+        "region": "Stadtkreis",
+        "address": "Schottenstr. 7, 99084 Erfurt",
+        "phone": "0361-6552950",
+        "email": "volkshochschule@erfurt.de"
+      }
+    ]
+  }
+]
